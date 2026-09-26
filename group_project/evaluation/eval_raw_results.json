@@ -1,0 +1,2325 @@
+{
+  "run_date": "2026-09-26T03:39:00.415425+00:00",
+  "top_k": 5,
+  "score_threshold": 0.3,
+  "config_A": {
+    "records": [
+      {
+        "id": "gd-01",
+        "question": "Theo Nghị định 01/2021/NĐ-CP, hộ kinh doanh được định nghĩa như thế nào?",
+        "answerable": true,
+        "answer": "Theo khoản 1 Điều 79 Nghị định số 01/2021/NĐ-CP, hộ kinh doanh được định nghĩa như sau: “Hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh của hộ” [Document 1, Document 2].",
+        "retrieved_contexts": [
+          "sử dụng từ Nghị định số 43/2010/NĐ-CP, Nghị định số 78/2015/NĐ-CP và hiện\nnay là Nghị định số 01/2021/NĐ-CP.\nTheo khoản 1 Điều 79, Nghị định số 01/2021/NĐ-CP của Chính phủ ngày\n04/01/2021 quy định về đăng ký doanh nghiệp Hộ kinh doanh được định nghĩa\nnhư sau: “Hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng\nký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt\nđộng kinh doanh của hộ”. Khái niệm về hộ kinh doanh có sự thay đổi qua quá",
+          "động, thay đổi đối với hộ kinh doanh do một nhóm người thành lập trước khi\nNghị định số 01/2021/NĐ-CP ra đời.\nThứ hai, đối với mô hình hộ kinh doanh do một hộ gia đình làm chủ sở\nhữu, cần làm rõ khái niệm hộ gia đình được đề cập đến trong khái niệm hộ kinh\ndoanh. Theo đó, khái niệm hộ gia đình cần làm rõ hộ gia đình gồm những người\ncó quan hệ hôn nhân, huyết thống, nuôi dưỡng cùng chung nhau một sản nghiệp,\nđại diện cho hộ gia đình gọi là chủ hộ. Thực tế cho thấy quy định về các giao",
+          "## **I. Thế nào là hộ kinh doanh?**\nHiện nay không có quy định, định nghĩa hộ kinh doanh là gì. Tuy nhiên, theo quy định tại khoản 1 Điều 79 Nghị định 01/2021/NĐ-CP thì hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh của hộ. \n- Hộ kinh doanh bao gồm 2 loại:\n+ Hộ kinh doanh do một cá nhân đăng ký thành lập;\n+ Hộ kinh doanh do các thành viên hộ gia đình đăng ký thành lập.",
+          "giai đoạn trước năm 2021, chủ sở hữu hộ kinh doanh có thể là cá nhân, hộ gia\nđình hoặc một nhóm người. Đáng chú ý là việc xác định chủ sở hữu của hộ kinh\ndoanh trong các trường hợp này có rất nhiều điểm tương đồng với tổ chức và\nhoạt động của một loại hình doanh nghiệp. Theo đó, ở Việt Nam, trước khi Nghị\nđịnh số 01/2021/NĐ-CP ra đời, pháp luật về hộ kinh doanh trước đó còn quy\nđịnh: chủ sở hữu hộ kinh doanh là một nhóm người có gồm các cá nhân là công",
+          "gia đình và tổ hợp tác sẽ được quy về cá nhân và quan hệ đại diện giữa các cá nhân đó.\nLuật Doanh nghiệp do vậy cũng không đưa ra định nghĩa về hộ kinh doanh, không quy định về hộ\nkinh doanh mà chỉ đơn thuần giao cho “Chính phủ quy định việc đăng ký và hoạt động của hộ\nkinh doanh” (Khoản 4, Điều 217, Luật Doanh nghiệp).\nHộ Kinh doanh hiện nay được quy định trong Nghị định số 01/2021/NĐ-CP của Chính phủ. Theo"
+        ],
+        "sources": [
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-204",
+            "score": 0.7989410758018494,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-758",
+            "score": 0.7635992765426636,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "news/article_01.md::chunk-12",
+            "score": 0.7507811784744263,
+            "retrieval_method": "dense",
+            "source": "article_01.md",
+            "title": "article_01"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-252",
+            "score": 0.7504314184188843,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-75",
+            "score": 0.7463176250457764,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          }
+        ],
+        "latency_s": 109.167,
+        "refused": false
+      },
+      {
+        "id": "gd-02",
+        "question": "Hộ kinh doanh có tư cách pháp nhân và con dấu riêng hay không?",
+        "answerable": true,
+        "answer": "Hộ kinh doanh không có tư cách pháp nhân và không có con dấu riêng [Document 1, 2, 4, 5].",
+        "retrieved_contexts": [
+          "**1. Thế nào là hộ kinh doanh cá thể?**\nHộ kinh doanh là loại hình kinh doanh do một cá nhân hoặc các thành viên của hộ gia đình cùng đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình, không có tư cách pháp nhân, không có con dấu riêng. \n➣ **Xem chi tiết: [Hộ kinh doanh cá thể là gì](https://luattinminh.vn/ho-kinh-doanh-la-gi#KHAINIEM)?**\n**2. Hộ kinh doanh có tư cách pháp nhân không?**\nHộ kinh doanh không có tư cách pháp nhân.",
+          "_Thứ nhất,_ hộ kinh doanh không có tư cách pháp nhân, không có con dấu vì không đảm bảo đủ 4 điều kiện theo quy định tại điều 74 Bộ luật Dân sự 2015. Theo quy định, pháp nhân sẽ chịu trách nhiệm đối với tài sản riêng của mình, mà chế độ chịu trách nhiệm của hộ kinh doanh cá thể là cá nhân, thành viên hộ gia đình đăng ký thành lập phải chịu trách nhiệm vô hạn bằng tài sản riêng. Thêm đó, hộ gia đình cũng không có tài sản độc lập với cá nhân, thành viên hộ gia đình đăng ký thành lập",
+          "## **II. Hộ kinh doanh cá thể là gì?**\nHiểu một cách đơn giản, hộ kinh doanh (HKD) là loại hình kinh doanh do một cá nhân hoặc các thành viên của hộ gia đình cùng đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình. \nHộ kinh doanh không có tư cách pháp nhân, không có con dấu riêng. Trường hợp thành viên trong hộ gia đình cùng đăng ký thành lập hộ kinh doanh thì phải làm giấy ủy quyền cho một thành viên chịu trách nhiệm đại diện HKD và sẽ được gọi là chủ hộ.",
+          "các quy định của Nghị định số 01/2021/NĐ-CP, hộ kinh doanh không có tài sản riêng nên không\ncó tư cách pháp nhân, tài sản của cá nhân và thành viên gia đình thành lập hộ hoạt động không\ntách rời tài sản của hộ đang hoạt động. Hộ kinh doanh cũng không có con dấu và không được mở\nvăn phòng đại diện, chi nhánh, nhưng hộ kinh doanh có thể mở rộng hoạt động sản xuất kinh\ndoanh bằng cách mở nhiều mặt bằng kinh doanh.",
+          "### **3. Hộ kinh doanh không phải là một doanh nghiệp**\nMặc dù có tên riêng, có địa điểm kinh doanh cố định nhưng hộ kinh doanh không phải là một doanh nghiệp. Do đó, hộ kinh doanh không có con dấu riêng, không được mở chi nhánh, văn phòng đại diện và không được thực hiện các quyền của doanh nghiệp như là: thực hiện các hoạt động xuất nhập khẩu, áp dụng Luật phá sản khi kinh doanh thua lỗ.\n### **4. Chế độ chịu trách nhiệm vô hạn**"
+        ],
+        "sources": [
+          {
+            "id": "news/article_03.md::chunk-36",
+            "score": 0.7329320907592773,
+            "retrieval_method": "dense",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "news/article_02.md::chunk-49",
+            "score": 0.7154685854911804,
+            "retrieval_method": "dense",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "news/article_03.md::chunk-21",
+            "score": 0.6941738724708557,
+            "retrieval_method": "dense",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-76",
+            "score": 0.6919804811477661,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "news/article_03.md::chunk-27",
+            "score": 0.6911529898643494,
+            "retrieval_method": "dense",
+            "source": "article_03.md",
+            "title": "article_03"
+          }
+        ],
+        "latency_s": 24.045,
+        "refused": false
+      },
+      {
+        "id": "gd-03",
+        "question": "Chủ hộ kinh doanh chịu trách nhiệm với các khoản nợ của hộ kinh doanh ở mức độ nào?",
+        "answerable": true,
+        "answer": "Chủ của hộ kinh doanh phải chịu trách nhiệm vô hạn đối với các khoản nợ của hộ kinh doanh [Document 1, Document 3]. \n\n\"Trách nhiệm vô hạn\" được hiểu là chủ hộ kinh doanh phải chịu trách nhiệm bằng toàn bộ tài sản của mình, kể cả tài sản không đưa vào kinh doanh [Document 2, Document 3], như nhà cửa, xe, trang sức cá nhân [Document 5]. Trách nhiệm này còn được gọi là sự tận cùng hay đến cùng của việc trả nợ / nghĩa vụ trả nợ [Document 2, Document 5].",
+        "retrieved_contexts": [
+          ". Thêm vào đó, chủ của hộ kinh doanh phải chịu trách nhiệm vô hạn đối với các khoản nợ của hộ kinh doanh; điều này có nghĩa là chủ hộ kinh doanh phải bằng toàn bộ tài sản của mình như theo Điều 79 [Nghị định 01/2021/NĐ-CP](https://bachkhoaluat.vn/van-ban-luat/30763/nghi-dinh-01-2021-ndcp-ve-dang-ky-doanh-nghiep) ngày 04/01/2021 của Chính phủ. Đồng thời, các cá nhân, nhóm người, hộ gia đình nhân danh chính mình mà không nhân danh hộ kinh doanh để tham gia vào hoạt động kinh doanh.",
+          "đặt thù của hộ kinh doanh là trách nhiệm vô hạn của chủ sở hữu hộ kinh doanh\nđối với hoạt động của hộ kinh doanh. Trách nhiệm vô hạn được PGS.TS.\nNguyễn Như Phát gọi là “trách nhiệm đến tận cùng của nghĩa vụ trả nợ”. Theo\nđó nếu hoạt động của hộ kinh doanh thất bại tạo ra khoản nợ không thể thanh\ntoán được thì chủ hộ kinh phải chịu trách nhiệm bằng toàn bộ tài sản cá nhân\ncủa họ như nhà cửa, xe, trang sức cá nhân. Nghĩa vụ này sẽ không chấm dứt khi",
+          "tạp, địa điểm kinh doanh đa dạng, ngoài trụ sở còn có các chi nhánh, văn phòng\nđại diện,... nằm rải rác ở nhiều nơi, thậm chí được đặt chi nhánh, văn phòng ở\nnhiều nước khác nhau.\nThứ ba, chủ hộ kinh doanh chịu trách nhiệm bằng toàn bộ tài sản của\nmình đối với hoạt động kinh doanh.\n“Trách nhiệm vô hạn” được hiểu là sự tận cùng hay đến cùng của việc trả\nnợ. Chủ hộ kinh doanh phải chịu trách nhiệm vô hạn bằng toàn bộ tài sản của",
+          ". Theo Nghị định số 168/2025/NĐ-CP, chủ hộ kinh doanh và các thành viên hộ gia đình đăng ký hộ kinh doanh phải chịu trách nhiệm liên đới đối với hoạt động kinh doanh của hộ; kể cả trong trường hợp chủ hộ thuê người khác quản lý, điều hành, chủ hộ và các thành viên hộ gia đình đăng ký hộ kinh doanh vẫn phải chịu trách nhiệm đối với các khoản nợ và nghĩa vụ tài sản khác phát sinh từ hoạt động kinh doanh",
+          "điểm chính của hộ kinh doanh cá thể?\"9, hộ kinh doanh không phải là một thực\nthể độc lập, tách biệt với chủ nhân của nó. Nên về nguyên tắc chủ nhân của hộ\nkinh doanh phải chịu trách nhiệm vô hạn đối với khoản nợ của hộ kinh doanh,\ncó nghĩa là chủ nhân của hộ kinh doanh phải chịu trách nhiệm bằng toàn bộ tài\nsản của mình kể cả tài sản không đưa vào kinh doanh. Đánh giá về trách nhiệm\nvô hạn của hộ kinh doanh, Nguyễn Như Phát (đồng tác giả, 2002), Luật kinh tế"
+        ],
+        "sources": [
+          {
+            "id": "news/article_02.md::chunk-24",
+            "score": 0.7535611391067505,
+            "retrieval_method": "dense",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-522",
+            "score": 0.7426175475120544,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-229",
+            "score": 0.7397780418395996,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "news/article_04.md::chunk-30",
+            "score": 0.7397133111953735,
+            "retrieval_method": "dense",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-78",
+            "score": 0.7201539874076843,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 29.841,
+        "refused": false
+      },
+      {
+        "id": "gd-04",
+        "question": "Hộ kinh doanh được sử dụng tối đa bao nhiêu lao động theo quy định?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp, quy định về số lượng lao động tối đa của hộ kinh doanh được ghi nhận như sau:\n\n* **Trước đây:** Hộ kinh doanh chỉ được sử dụng tối đa 9 lao động (hoặc giới hạn ở con số 9 / tối đa 09 lao động) [Document 2, Document 5], hoặc \"không được sử dụng quá 10 lao động\" [Document 3] / \"tối đa 10 lao động\" [Document 1] theo Nghị định 85/2015/NĐ-CP [Document 4]. Khi có từ 10 lao động trở lên, hộ kinh doanh phải chuyển đổi hình thức sang mô hình doanh nghiệp [Document 2, Document 5].\n* **Hiện tại (từ ngày 04/01/2021):** Số lượng lao động của hộ kinh doanh đã không còn hạn chế [Document 2], hộ kinh doanh không còn bị giới hạn số lượng lao động [Document 5].",
+        "retrieved_contexts": [
+          "định, hộ kinh doanh chỉ được sử dụng tối đa 10 lao động. Giải pháp tạm thời,\nChị Lan buộc phải tách xưởng thành 3 hộ kinh doanh khác, đứng tên chồng và 2\nngười thân, để hợp thức hóa số lao động. Hệ quả là gây khó khăn trong quản lý\nđiều hành nội bộ vì phải chia nhỏ chi phí, doanh thu; gây trở ngại khi xin giấy\nchứng nhận an toàn lao động, phòng cháy chữa cháy, vì không thống nhất hồ sơ;\nvà cơ quan thuế gặp khó trong kiểm soát, thất thu ngân sách. Khắc phục tình",
+          "### **5. Số lượng lao động của hộ kinh doanh**\nTừ ngày 04/01/2021, hộ kinh doanh không còn bị giới hạn số lượng lao động. Do đó, hộ kinh doanh có thể mở rộng quy mô kinh doanh, thuê thêm lao động mà không cần chuyển đổi thành doanh nghiệp. \nTrước đây, hộ kinh doanh chỉ được phép thuê tối đa 09 lao động, trường hợp có từ 10 lao động trở lên cần chuyển đổi thành doanh nghiệp để tiếp tục hoạt động kinh doanh.\n### **6. Sử dụng hóa đơn điện tử, mở sổ sách kế toán**",
+          "_Thứ năm,_ số lượng lao động của hộ kinh doanh đã không còn hạn chế. Trước đây, hộ kinh doanh chỉ được giới hạn ở con số 9, khi số lượng lao động từ 10 người trở lên, hộ kinh doanh phải chuyển đổi hình thức sang mô hình doanh nghiệp. Với việc bỏ quy định hộ kinh doanh có sử dụng từ mười lao động trở lên phải đăng ký thành lập doanh nghiệp đã góp phần tạo điều kiện cho hộ kinh doanh mở rộng quy mô sản xuất kinh doanh.",
+          "85/2015/NĐ-CP về đăng ký thành lập doanh nghiệp đã giới hạn số lượng lao\nđộng của hộ kinh doanh là 10 người dẫn đến các doanh nghiệp không mở rộng\nđược hoạt động và tìm cách “lách luật”. Điển hình như Hộ kinh doanh của Chị\nLan ở làng nghề mộc La Xuyên (Nam Định) điều hành một xưởng mộc chuyên\nsản xuất đồ nội thất theo đơn đặt hàng từ TP.HCM và Đà Nẵng. Nhu cầu tăng\ncao, chị muốn mở rộng xưởng và thuê thêm 15 công nhân. Tuy nhiên, theo quy",
+          "và sử dụng lao động. Nên chăng pháp luật nhìn nhận vấn đề từ phía người lao\nđộng và lợi ích của chủ hộ kinh doanh”. Ngô Huy Cương (2013), \"Giáo trình\nLuật thương mại phần chung và thương nhân\", Nxb. Đại học Quốc gia Hà Nội.\nViệc quy định hộ kinh doanh không được sử dụng quá 10 lao động hoàn toàn\nkhông phù hợp với hoàn cảnh thực tiễn kinh doanh hiện nay trong bối cảnh kinh\ntế thị trường và hội nhập quốc tế. Nhiều khi chủ hộ kinh doanh không muốn mất"
+        ],
+        "sources": [
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-633",
+            "score": 0.7149670720100403,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "news/article_03.md::chunk-29",
+            "score": 0.7086911797523499,
+            "retrieval_method": "dense",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "news/article_02.md::chunk-45",
+            "score": 0.7006601691246033,
+            "retrieval_method": "dense",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-632",
+            "score": 0.7002225518226624,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-119",
+            "score": 0.6964530944824219,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 25.454,
+        "refused": false
+      },
+      {
+        "id": "gd-05",
+        "question": "Một cá nhân có được đứng tên đăng ký nhiều hơn một hộ kinh doanh cùng lúc không?",
+        "answerable": true,
+        "answer": "Không, một cá nhân không thể đứng tên nhiều hơn một hộ kinh doanh cùng lúc, mà chỉ được đăng ký một hộ kinh doanh trong phạm vi toàn quốc [Document 1].",
+        "retrieved_contexts": [
+          "## **IV. Giải đáp các thắc mắc về hộ kinh doanh**\n### **1. Một cá nhân có thể đứng tên nhiều hơn một hộ kinh doanh hay không?**\nTheo quy định tại khoản 2 Điều 80 Nghị định 01/2021/NĐ-CP thì một cá nhân không thể đứng tên nhiều hơn một hộ kinh doanh, mà chỉ được đăng ký một hộ kinh doanh trong phạm vi toàn quốc.\n### **2. Hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm không?**",
+          "Một người chỉ được đăng ký duy nhất một hộ kinh doanh cá thể trên phạm vi toàn quốc. Ngoài ra, khi đã đăng ký hộ kinh doanh, cá nhân sẽ không thể đồng thời đăng ký là chủ doanh nghiệp tư nhân hoặc thành viên hợp danh công ty hợp doanh.\n### **2. Ngành nghề hộ kinh doanh được đăng ký thành lập**\n  * Hộ kinh doanh có thể đăng ký tham gia mọi ngành nghề mà pháp luật không cấm.",
+          "+ Cá nhân, thành viên hộ gia đình đăng ký hộ kinh doanh không được đồng thời là chủ doanh nghiệp tư nhân, thành viên hợp danh của công ty hợp danh trừ trường hợp được sự nhất trí của các thành viên hợp danh còn lại.\nCơ sở pháp lý: Điều 79, khoản 2, 3 Điều 80 Nghị định 01/2021/NĐ-CP.\n## **II. Những lưu ý khi đặt tên hộ kinh doanh?**\nTheo quy định tại Điều 88 Nghị định 01/2021/NĐ-CP thì khi đặt tên hộ kinh doanh cần phải lưu ý những điều sau đây:",
+          ". Cá nhân, thành viên hộ gia đình đăng ký hộ kinh doanh không được đồng thời là chủ doanh nghiệp tư nhân, thành viên hợp danh của công ty hợp danh trừ trường hợp được sự nhất trí của các thành viên hợp danh còn lại.",
+          "+ Cá nhân, thành viên hộ gia đình chỉ được đăng ký một hộ kinh doanh trong phạm vi toàn quốc và được quyền góp vốn, mua cổ phần, mua phần vốn góp trong doanh nghiệp với tư cách cá nhân.\n+ Cá nhân, thành viên hộ gia đình đăng ký hộ kinh doanh không được đồng thời là chủ doanh nghiệp tư nhân, thành viên hợp danh của công ty hợp danh trừ trường hợp được sự nhất trí của các thành viên hợp danh còn lại."
+        ],
+        "sources": [
+          {
+            "id": "news/article_01.md::chunk-26",
+            "score": 0.7978262901306152,
+            "retrieval_method": "dense",
+            "source": "article_01.md",
+            "title": "article_01"
+          },
+          {
+            "id": "news/article_03.md::chunk-24",
+            "score": 0.7346422672271729,
+            "retrieval_method": "dense",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "news/article_01.md::chunk-15",
+            "score": 0.7115820050239563,
+            "retrieval_method": "dense",
+            "source": "article_01.md",
+            "title": "article_01"
+          },
+          {
+            "id": "news/article_02.md::chunk-55",
+            "score": 0.703010082244873,
+            "retrieval_method": "dense",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "news/article_01.md::chunk-19",
+            "score": 0.6985799074172974,
+            "retrieval_method": "dense",
+            "source": "article_01.md",
+            "title": "article_01"
+          }
+        ],
+        "latency_s": 25.131,
+        "refused": false
+      },
+      {
+        "id": "gd-06",
+        "question": "Hộ kinh doanh có được hoạt động tại nhiều địa điểm không, và phải làm gì với các địa điểm ngoài trụ sở chính?",
+        "answerable": true,
+        "answer": "Hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm [Document 1, Document 2, Document 3, Document 4, Document 5]. \n\nĐối với các địa điểm ngoài trụ sở chính (các địa điểm kinh doanh còn lại), hộ kinh doanh phải:\n* Chọn một địa điểm để đăng ký trụ sở hộ kinh doanh [Document 1, Document 2, Document 3, Document 5].\n* Thông báo cho Cơ quan quản lý thuế, cơ quan quản lý thị trường nơi tiến hành hoạt động kinh doanh [Document 1, Document 2, Document 5] (hoặc cơ quan thuế quản lý, cơ quan quản lý thị trường [Document 4]).",
+        "retrieved_contexts": [
+          "_Thứ sáu,_ hộ kinh doanh có thể kinh doanh tại nhiều địa điểm. Cụ thể, khoản 2 Điều 86 Nghị định 01/2021/NĐ-CP ngày 04/01/2021 của Chính phủ quy định:_“Một hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký trụ sở hộ kinh doanh và phải thông báo cho Cơ quan quản lý thuế, cơ quan quản lý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm kinh doanh còn lại”_",
+          "thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để\nđăng ký trụ sở hộ kinh doanh và phải thông báo cho Cơ quan quản lý thuế, cơ\nquan quản lý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm\nkinh doanh còn lại50.\nTrước đây, Nghị định số 78/2015/NĐ-CP không cho phép hộ kinh doanh\nthực hiện quyền kinh doanh tại nhiều địa điểm, duy chỉ có hộ kinh doanh buôn\nchuyến, kinh doanh lưu động được phép kinh doanh ngoài địa điểm đã đăng ký",
+          "Căn cứ theo quy định tại khoản 2 Điều 86 Nghị định 01/2021/NĐ-CP thì một hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký trụ sở hộ kinh doanh và phải thông báo cho Cơ quan quản lý thuế, cơ quan quản lý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm kinh doanh còn lại.\nNhư vậy, hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký trụ sở hộ kinh doanh.",
+          "Hộ kinh doanh có thể hoạt động tại nhiều địa điểm, nhưng phải lựa chọn một địa điểm cố định để đăng ký làm trụ sở chính và phải thông báo với cơ quan thuế quản lý, cơ quan quản lý thị trường về các địa điểm hoạt động kinh doanh còn lại. Tuy nhiên, một địa điểm chỉ được đăng ký duy nhất một hộ kinh doanh. \n## **III. Đặc điểm pháp lý của hộ kinh doanh**\n### **1. Đối tượng thành lập hộ kinh doanh**",
+          "khác.\nThứ tứ, về địa điểm kinh doanh của hộ kinh doanh, Điều 86, Nghị định số\n01/2021/NĐ-CP quy định: địa điểm kinh doanh của hộ kinh doanh là nơi hộ\nkinh doanh thực hiện hoạt động kinh doanh. Một hộ kinh doanh có thể hoạt\nđộng kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký\ntrụ sở hộ kinh doanh và phải thông báo cho cơ quan quản lý thuế, cơ quan quản\nlý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm kinh"
+        ],
+        "sources": [
+          {
+            "id": "news/article_02.md::chunk-46",
+            "score": 0.7757540941238403,
+            "retrieval_method": "dense",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-424",
+            "score": 0.756211519241333,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "news/article_01.md::chunk-27",
+            "score": 0.7410810589790344,
+            "retrieval_method": "dense",
+            "source": "article_01.md",
+            "title": "article_01"
+          },
+          {
+            "id": "news/article_03.md::chunk-22",
+            "score": 0.7321001887321472,
+            "retrieval_method": "dense",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-742",
+            "score": 0.7250972390174866,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 21.871,
+        "refused": false
+      },
+      {
+        "id": "gd-07",
+        "question": "Cơ quan nào có thẩm quyền tiếp nhận hồ sơ đăng ký hộ kinh doanh, theo quy định cũ (Nghị định 01/2021) và theo quy định mới hơn?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp:\n\n- **Theo quy định trước ngày 01/7/2023** (căn cứ các quy định pháp lý, trong đó có Nghị định 01/2021/NĐ-CP), việc tổ chức và thực hiện cấp đăng ký hộ kinh doanh được tiến hành tại **hơn 700 Phòng Tài chính – Kế hoạch cấp huyện** trên toàn quốc (được gọi chung là cơ quan đăng ký kinh doanh) [Document 5].\n- **Theo quy định mới hơn** (Thông tư số 02/2023/TT-BKHĐT), **Cơ quan đăng ký kinh doanh cấp huyện** là đơn vị tiếp nhận và nhập thông tin hồ sơ đăng ký hộ kinh doanh vào Hệ thống thông tin về đăng ký hộ kinh doanh [Document 4].",
+        "retrieved_contexts": [
+          "(Điều 72 Nghị định 78/2015/NĐ-CP). Kể từ ngày 04/01/2021, khi Nghị định\n01/2021/NĐ-CP về đăng ký doanh nghiệp có hiệu lực, hộ kinh doanh có thể hoạt\nđộng kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký\ntrụ sở hộ kinh doanh và phải thông báo cho cơ quan quản lý thuế, cơ quan quản\nlý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm kinh\ndoanh còn lại, đây là nội dung mới, tiến bộ của pháp luật doanh nghiệp.",
+          "04/01/2021. Các biểu mẫu được sử dụng trong đăng ký hộ kinh doanh được quy\nđịnh cụ thể tại Thông tư số 01/2021/TT-BKHĐT ngày 16/3/2021 của Bộ Kế\nhoạch và Đầu tư hướng dẫn về đăng ký doanh nghiệp, có hiệu lực thi hành từ\nngày 01/5/2021.\nCăn cứ các quy định pháp lý trên, việc tổ chức, thực hiện cấp đăng ký hộ\nkinh doanh trước ngày 01/7/2023 được tiến hành tại hơn 700 Phòng Tài chính –\nKế hoạch cấp huyện trên toàn quốc (gọi chung là cơ quan đăng ký kinh doanh",
+          "giải trí\nDịch vụ khác 4,7 4,7 4,8 5,0 4,9 5,0 5,1 5,2 5,1 5,5 5,7\nNguồn: Tổng hợp từ Niên giám Thống kê hằng năm của Tổng cục Thống\nkê\nTheo Cục Quản lý đăng ký kinh doanh, Bộ Kế hoạch và Đầu tư, khung\npháp lý hiện hành về hộ kinh doanh và đăng ký hộ kinh doanh được quy định cụ\nthể tại Chương VIII Nghị định số 01/2021/NĐ-CP, ngày 04/01/2021 của Chính\nphủ về đăng ký doanh nghiệp. Nghị định này có hiệu lực thi hành từ ngày",
+          "02/2023/TT-BKHĐT. Thông tư số 02/2023/TT-BKHĐT có một số điểm mới,\ngóp phần khắc phục các bất cập trong khung pháp lý đăng ký hộ kinh doanh tại\ncác quy định hiện hành, cụ thể như sau:\n- Bổ sung một Điều quy định về việc tiếp nhận và xử lý hồ sơ đăng ký hộ\nkinh doanh trên Hệ thống thông tin đăng ký hộ kinh doanh. Theo đó, Cơ quan\nđăng ký kinh doanh cấp huyện tiếp nhận và nhập thông tin hồ sơ đăng ký hộ\nkinh doanh vào Hệ thống thông tin về đăng ký hộ kinh doanh thuộc Hệ thống",
+          "điểm kinh doanh tại cơ quan thuế. Do đó, trong thời gian tới, thủ tục kê khai\nthông tin của hộ kinh doanh tại cơ quan thế cần được đơn giản hóa, tăng cường\nphối hợp cung cấp thông tin giữa cơ quan đăng ký kinh doanh và cơ quan thuế83.\nThứ năm, Chương I, Nghị định số 01/2021/NĐ-CP quy định những vấn đề\nchung, nhưng cũng tập trung cho đăng ký doanh nghiệp. Một số quy định về\nđăng ký hộ kinh doanh hiện vẫn còn thiếu, như: nguyên tắc áp dụng giải quyết"
+        ],
+        "sources": [
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-425",
+            "score": 0.7080540657043457,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-591",
+            "score": 0.6973641514778137,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-590",
+            "score": 0.6954748630523682,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-445",
+            "score": 0.6823130249977112,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-745",
+            "score": 0.6779411435127258,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 20.186,
+        "refused": false
+      },
+      {
+        "id": "gd-08",
+        "question": "Giấy chứng nhận đăng ký hộ kinh doanh có đồng thời là giấy chứng nhận đăng ký thuế không?",
+        "answerable": true,
+        "answer": "Có, Giấy chứng nhận đăng ký hộ kinh doanh đồng thời là Giấy chứng nhận đăng ký thuế [Document 1, Document 2, Document 5].",
+        "retrieved_contexts": [
+          ". Theo đó, Giấy chứng nhận đăng ký hộ kinh doanh đồng thời là Giấy chứng nhận đăng ký thuế; hộ kinh doanh có quyền tiến hành hoạt động kinh doanh kể từ ngày được cấp giấy chứng nhận, trừ trường hợp ngành, nghề đầu tư kinh doanh có điều kiện; chủ hộ kinh doanh là người đại diện cho hộ kinh doanh trong các quan hệ nghĩa vụ tài chính, tố tụng và thi hành quyết định xử phạt vi phạm hành chính",
+          "Giấy chứng nhận đăng ký hộ kinh doanh là văn bản bằng bản giấy hoặc\nbản điện tử mà cơ quan đăng ký kinh doanh cấp huyện cấp cho hộ kinh doanh\nghi lại những thông tin về đăng ký kinh doanh và đăng ký thuế do hộ kinh doanh\nđăng ký. Giấy chứng nhận đăng ký hộ kinh doanh đồng thời là Giấy chứng nhận\nđăng ký thuế của hộ kinh doanh. Tuy nhiên, để thuận tiện cho việc quản lý đối\nvới hộ kinh doanh. Hệ thống thông tin về đăng ký hộ kinh doanh là một cấu",
+          ". Theo Nghị định số 168/2025/NĐ-CP, cơ quan đăng ký kinh doanh cấp xã là đầu mối tiếp nhận và xử lý hồ sơ đăng ký hộ kinh doanh; Giấy chứng nhận đăng ký hộ kinh doanh đồng thời là Giấy chứng nhận đăng ký thuế; hộ kinh doanh được quyền hoạt động kể từ thời điểm được cấp giấy chứng nhận nếu đáp ứng đầy đủ các điều kiện luật định",
+          "Đăng ký thuế\n► Hộ gia đình, cá nhân có hoạt động sản xuất, kinh doanh phải đăng ký\nthuế theo quy định của pháp luật quản lý thuế.\n► Hộ kinh doanh thực hiện đăng ký thuế theo cơ chế một cửa liên\nthông cùng với đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh\ntheo quy định của pháp luật có liên quan; không cần phải đến cùng lúc\n02 cơ quan đăng ký kinh doanh và cơ quan thuế để thực hiện.\n► Trường hợp cá nhân kinh doanh không thuộc diện đăng ký hộ kinh",
+          "tin kê khai đăng ký thuế. Với giải pháp áp dụng một bộ hồ sơ duy nhất khi đăng\nký hộ kinh doanh thay vì phải nộp 02 bộ hồ sơ (gồm 01 bộ hồ sơ đăng ký kinh\ndoanh tại Phòng Tài chính Kế hoạch và 01 bộ hồ sơ đăng ký thuế tại Chi cục\nThuế) như hiện nay; sẽ giúp loại bỏ những nội dung kê khai và giấy tờ trùng lặp\nhoặc không hợp lý. (2) Bãi bỏ Giấy chứng nhận đăng ký thuế cho hộ kinh\ndoanh. Điều này là hệ quả của việc áp dụng một mẫu đơn hợp nhất, một bộ hồ"
+        ],
+        "sources": [
+          {
+            "id": "news/article_04.md::chunk-22",
+            "score": 0.7839482426643372,
+            "retrieval_method": "dense",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-431",
+            "score": 0.7504215836524963,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "news/article_04.md::chunk-45",
+            "score": 0.7359281778335571,
+            "retrieval_method": "dense",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-19",
+            "score": 0.6940375566482544,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-807",
+            "score": 0.6817748546600342,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 16.581,
+        "refused": false
+      },
+      {
+        "id": "gd-09",
+        "question": "Những đối tượng nào không có quyền thành lập hộ kinh doanh theo Nghị định 01/2021/NĐ-CP?",
+        "answerable": true,
+        "answer": "Theo Nghị định 01/2021/NĐ-CP, nhóm đối tượng không có quyền thành lập hộ kinh doanh bao gồm [Document 1]:\n* Người chưa thành niên [Document 1].\n* Người bị hạn chế năng lực hành vi dân sự [Document 1].\n* Người bị mất năng lực hành vi dân sự [Document 1].\n* Người có khó khăn trong nhận thức, làm chủ hành vi [Document 1].\n* Người đang bị truy cứu trách nhiệm hình sự, bị tạm giam, đang chấp hành hình phạt tù, đang chấp hành biện pháp xử lý hành chính tại cơ sở cai nghiện bắt buộc, cơ sở giáo dục bắt buộc hoặc đang bị Tòa án cấm đảm [Document 1].",
+        "retrieved_contexts": [
+          ". Điều 80 Nghị định 01/2021/NĐ-CP ngày 04/01/2021 của Chính phủ quy định nhóm đối tượng sau không có quyền thành lập hộ kinh doanh: Người chưa thành niên, người bị hạn chế năng lực hành vi dân sự; người bị mất năng lực hành vi dân sự; người có khó khăn trong nhận thức, làm chủ hành vi; Người đang bị truy cứu trách nhiệm hình sự, bị tạm giam, đang chấp hành hình phạt tù, đang chấp hành biện pháp xử lý hành chính tại cơ sở cai nghiện bắt buộc, cơ sở giáo dục bắt buộc hoặc đang bị Tòa án cấm đảm",
+          "Với đối tượng không phải thành lập hộ kinh doanh, Khoản 2, Điều 79,\nNghị định số 01/2021/NĐ-CP quy định: “Hộ gia đình sản xuất nông, lâm, ngư\nnghiệp, làm muối và những người bán hàng rong, quà vặt, buôn chuyến, kinh\ndoanh lưu động, kinh doanh thời vụ, làm dịch vụ có thu nhập thấp không phải\nđăng ký hộ kinh doanh, trừ trường hợp kinh doanh các ngành, nghề đầu tư kinh\ndoanh có điều kiện. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy",
+          "Về đối tượng thành lập hộ kinh doanh, hiện nay, theo quy định tại Khoản\n1, Điều 79, Nghị định số 01/2021/NĐ-CP, đối tượng thành lập hộ kinh doanh\nbao gồm 2 đối tượng là cá nhân và các thành viên hộ gia đình. Tuy nhiên, pháp\nluật hiện hành chưa có quy định chung về khái niệm “hộ gia đình”, gây ra sự\nlúng túng, khó khăn cho người thành lập hộ kinh doanh và cơ quan quản lý nhà\nnước trong việc xác định đối tượng đăng ký tham gia thành lập hộ kinh doanh.",
+          "### **1. Đối tượng thành lập hộ kinh doanh**\nCá nhân hoặc các thành viên hộ gia đình đăng ký thành lập hộ kinh doanh cần đáp ứng các điều kiện tại Điều 79 Nghị định 01/2021 NĐ-CP, cụ thể như sau:\n  * Đối tượng thành lập hộ kinh doanh phải là công dân Việt Nam, từ đủ 18 tuổi trở lên, có đầy đủ năng lực hành vi dân sự. \n  * Người nước ngoài không được phép thành lập hộ kinh doanh.",
+          ". Khoản 2 điều 17 Luật doanh nghiệp năm 2020 quy định về các trường hợp tổ chức, cá nhân không có quyền thành lập doanh nghiệp, nhóm đối tượng này rộng hơn đối với hộ kinh doanh: Cơ quan nhà nước, đơn vị lực lượng vũ trang nhân dân sử dụng tài sản nhà nước để thành lập doanh nghiệp kinh doanh thu lợi riêng cho cơ quan, đơn vị mình; Cán bộ, công chức, viên chức theo quy định của Luật Cán bộ, công chức và Luật Viên chức; Sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, công nhân, viên chức quốc phòng"
+        ],
+        "sources": [
+          {
+            "id": "news/article_02.md::chunk-38",
+            "score": 0.8312631249427795,
+            "retrieval_method": "dense",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-399",
+            "score": 0.7168008089065552,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-398",
+            "score": 0.7114629149436951,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "news/article_03.md::chunk-23",
+            "score": 0.7112072110176086,
+            "retrieval_method": "dense",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "news/article_02.md::chunk-40",
+            "score": 0.7053780555725098,
+            "retrieval_method": "dense",
+            "source": "article_02.md",
+            "title": "article_02"
+          }
+        ],
+        "latency_s": 16.718,
+        "refused": false
+      },
+      {
+        "id": "gd-10",
+        "question": "Khi hộ kinh doanh chấm dứt hoạt động, thủ tục có giống thủ tục giải thể hoặc phá sản doanh nghiệp không?",
+        "answerable": true,
+        "answer": "Khi hộ kinh doanh chấm dứt hoạt động, thủ tục không áp dụng hình thức giải thể hay phá sản [Document 1]. Cụ thể:\n- Hộ kinh doanh chấm dứt hoạt động bằng cách nộp lại bản gốc Giấy chứng nhận đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp huyện nơi đã đăng ký [Document 1].\n- Pháp luật không có quy định về phá sản đối với hộ kinh doanh và hộ kinh doanh không được áp dụng quy định về phá sản [Document 5].",
+        "retrieved_contexts": [
+          "|  **Thủ tục chấm dứt hoạt động**  |  Thực hiện theo quy định của Luật Doanh nghiệp về giải thể doanh nghiệp hoặc theo quy định của Luật Phá sản về thủ tục phá sản  |  Không áp dụng hình thức giải thể hay phá sản. Hộ kinh doanh chấm dứt hoạt động nộp lại bản gốc Giấy chứng nhận đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp huyện nơi đã đăng ký  |",
+          "chủ hộ mới. Từ đó, xác định các trường hợp hộ kinh doanh ngừng hoạt động\nhoặc chấm dứt hoạt động.\n4.2.5. Hoàn thiện quy định pháp luật về chuyển đổi hộ kinh doanh\nPháp luật hiện hành đã quy định khá chi tiết về việc chấm dứt hoạt động\nvà chuyển đổi hộ kinh doanh thành doanh nghiệp. Tuy nhiên, chúng ta thấy rằng\npháp luật không có quy định về phá sản đối với hộ kinh doanh. Hộ kinh doanh\nkhông được áp dụng quy định về phá sản nhằm hạn chế rủi ro cho người kinh",
+          "quản lý. Thuật ngữ “phá sản” dường như không được sử dụng đối với hộ kinh\ndoanh bởi “phá sản” mang tính chất “nặng nề” hơn so với việc chấm dứt hoạt\nđộng của hộ kinh doanh. Ngoài ra, phá sản thường được sử dụng với các loại\nhình kinh doanh là công ty, doanh nghiệp, do đó hộ kinh doanh có phá sản hay\nkhông phụ thuộc vào quan điểm hộ kinh doanh có phải một loại hình doanh\nnghiệp hay không. Việc chấm dứt hoạt động của hộ kinh doanh bởi quyết định",
+          "của chủ hộ kinh doanh đòi hỏi hộ kinh doanh có trách nhiệm thanh toán đầy đủ\ncác khoản nợ, gồm cả nợ thuế và nghĩa vụ tài chính chưa thực hiện trước khi\nnộp hồ sơ chấm dứt hoạt động hộ kinh doanh, trừ trường hợp hộ kinh doanh và\nchủ nợ có thỏa thuận khác. Việc hộ kinh doanh tự nguyện chấm dứt hoạt động\ngiống như hình thức giải thể của doanh nghiệp nghiệp khác\nThứ ba, chấm dứt hoạt động hộ kinh doanh bởi quyết định của cơ quan",
+          "pháp nhân nhưng sẽ tuân thủ theo quy trình của Luật Phá sản tương tự như các loại hình doanh\nnghiệp khác. Điều 5, Luật Phá sản 2014 xác định rõ quyền, nghĩa vụ nộp đơn yêu cầu thủ tục phá\nsản của doanh nghiệp tư nhân. Tuy nhiên, hộ kinh doanh cũng có bản chất là cá nhân kinh doanh\nlại không thuộc phạm vi điều chỉnh của Luật Phá sản nên tuân thủ các quy định của Bộ Luật Dân\nsự khi làm các thủ tục phá sản.\nĐiều này cho thấy cách ứng xử không rõ ràng và nhất quán của các quy định pháp luật đối với"
+        ],
+        "sources": [
+          {
+            "id": "news/article_02.md::chunk-65",
+            "score": 0.7559008598327637,
+            "retrieval_method": "dense",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-779",
+            "score": 0.7092188000679016,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-372",
+            "score": 0.7041409015655518,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-371",
+            "score": 0.7037100195884705,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-173",
+            "score": 0.6888947486877441,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          }
+        ],
+        "latency_s": 18.337,
+        "refused": false
+      },
+      {
+        "id": "gd-11",
+        "question": "Theo sổ tay hướng dẫn thuế, hộ kinh doanh có doanh thu trên bao nhiêu mỗi năm thì phải nộp thuế GTGT và TNCN tính theo tỷ lệ % trên doanh thu?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp, đối với hộ kinh doanh có doanh thu trên 500 triệu đồng/năm, thuế GTGT được tính theo tỷ lệ % trên doanh thu [Document 4]. \n\n*(Lưu ý: Context không cung cấp thông tin cụ thể về mức doanh thu bắt buộc phải nộp thuế TNCN tính theo tỷ lệ % trên doanh thu ngoài việc đề cập đến các phương pháp tính thuế cho các mức doanh thu khác nhau, do đó không thể xác minh chính xác phần thuế TNCN cho câu hỏi này ngoài thông tin về thuế GTGT đã nêu).*",
+        "retrieved_contexts": [
+          "được cơ quan thuế cấp mã định danh\nkhoản phải nộp thì hộ kinh doanh thực\nhiện nộp theo mã định danh khoản\nphải nộp\n2.3. Hộ kinh doanh có doanh thu năm trên 3 tỷ đồng đến 50 tỷ\nđồng hoặc trên 500 triệu đồng đến 3 tỷ đồng lựa chọn nộp thuế\nTNCN trên thu nhập tính thuế\nSTT NỘI DUNG\nI Bước 1: Xác định phương pháp tính thuế\n- GTGT: tỷ lệ % trên doanh thu.\n- TNCN:\n+) Doanh thu trên 500 triệu đồng đến 3\nPhương pháp tính tỷ đồng: thu nhập tính thuế nhân (x) với\n1\nthuế GTGT, TNCN thuế suất 15%",
+          "nộp thuế TNCN theo quy định pháp luật về thuế GTGT và thuế TNCN. Hộ kinh\ndoanh theo hình thức nhóm cá nhân, hộ gia đình thì mức doanh thu từ 100 triệu\nđồng/năm trở xuống để xác định cá nhân không phải nộp thuế GTGT, không\nphải nộp thuế TNCN được xác định cho một (01) người đại diện duy nhất của\nnhóm cá nhân, hộ gia đình trong năm tính thuế.\nDo quan niệm hiện nay không rõ ràng về việc hộ kinh doanh có phải là\ndoanh nghiệp hay không nên hộ kinh doanh không phải chịu thuế thu nhập",
+          "Thuế GTGT phải nộp = Doanh thu × Tỷ lệ % thuế GTGT\n► Thuế TNCN của hộ kinh doanh, cá nhân kinh doanh được xác định\ntheo một trong hai phương pháp sau:\n(1) Phương pháp nộp thuế trên doanh thu tính thuế\nÁp dụng đối với hộ kinh doanh, cá nhân kinh doanh có doanh thu\nnăm trên 500 triệu đồng đến 03 tỷ đồng lựa chọn phương pháp này\nThuế TNCN phải nộp\n= Doanh thu tính thuế (doanh thu - 500 triệu đồng) × Thuế suất TNCN\n(2) Phương pháp nộp thuế trên thu nhập tính thuế",
+          "Thuế suất đối với các hoạt động kinh doanh\ncủa hộ kinh doanh?\n► Tỷ lệ tính thuế GTGT: Đối với hộ kinh doanh có doanh thu trên 500\ntriệu đồng/năm, thuế GTGT được tính theo tỷ lệ % trên doanh thu. Căn\ncứ vào ngành nghề kinh doanh tỷ lệ % tính thuế GTGT được xác định\nnhư sau:\nNhóm ngành nghề kinh doanh Tỷ lệ % tính thuế GTGT\nPhân phối, cung cấp hàng hóa 1%\nDịch vụ, xây dựng không bao thầu\n5%\nnguyên vật liệu\nSản xuất, vận tải, dịch vụ có gắn\nvới hàng hóa, xây dựng có bao thầu 3%\nnguyên vật liệu",
+          "2.4. Hộ kinh doanh có doanh thu năm trên 50 tỷ đồng\nSTT NỘI DUNG\nI Bước 1: Xác định phương pháp tính thuế\n- GTGT: tỷ lệ % trên doanh thu.\nPhương pháp tính\n1 - TNCN: thu nhập tính thuế nhân (x) với\nthuế GTGT, TNCN\nthuế suất 20%\nThay đổi và ổn định Thực hiện ổn định phương pháp tính\n2 phương pháp tính thuế trong 02 năm liên tục kể từ năm\nthuế đầu tiên áp dụng.\nBước 2: Thực hiện quy định về số sách kế toán, hóa đơn,\nII\nchứng từ theo quy định\n- Sổ doanh thu bán hàng hóa, dịch vụ\n(Mẫu số S2b-HKD)"
+        ],
+        "sources": [
+          {
+            "id": "legal/so_tay_thue.md::chunk-85",
+            "score": 0.7533659338951111,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-483",
+            "score": 0.7381788492202759,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-34",
+            "score": 0.7352336645126343,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-49",
+            "score": 0.7247787714004517,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-97",
+            "score": 0.7161348462104797,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          }
+        ],
+        "latency_s": 18.698,
+        "refused": true
+      },
+      {
+        "id": "gd-12",
+        "question": "Tỷ lệ % tính thuế GTGT đối với hộ kinh doanh hoạt động phân phối, cung cấp hàng hóa là bao nhiêu?",
+        "answerable": true,
+        "answer": "Tỷ lệ % tính thuế GTGT đối với hộ kinh doanh hoạt động phân phối, cung cấp hàng hóa là 1% [Document 1].",
+        "retrieved_contexts": [
+          "Thuế suất đối với các hoạt động kinh doanh\ncủa hộ kinh doanh?\n► Tỷ lệ tính thuế GTGT: Đối với hộ kinh doanh có doanh thu trên 500\ntriệu đồng/năm, thuế GTGT được tính theo tỷ lệ % trên doanh thu. Căn\ncứ vào ngành nghề kinh doanh tỷ lệ % tính thuế GTGT được xác định\nnhư sau:\nNhóm ngành nghề kinh doanh Tỷ lệ % tính thuế GTGT\nPhân phối, cung cấp hàng hóa 1%\nDịch vụ, xây dựng không bao thầu\n5%\nnguyên vật liệu\nSản xuất, vận tải, dịch vụ có gắn\nvới hàng hóa, xây dựng có bao thầu 3%\nnguyên vật liệu",
+          "1. Thời gian được giảm thuế\nChính sách giảm thuế GTGT được áp dụng từ ngày 01/7/2025 đến hết\nngày 31/12/2026 đối với hàng hóa, dịch vụ\n2. Mức giảm thuế hộ kinh doanh được hưởng\nHộ kinh doanh, cá nhân kinh doanh được giảm 20% mức tỷ lệ % để\ntính thuế GTGT.\n3. Hàng hóa, dịch vụ được áp dụng giảm thuế\nChính sách giảm thuế áp dụng đối với hầu hết hàng hóa, dịch vụ, ngoại\ntrừ một số nhóm ngành, lĩnh vực sau:\n- Viễn thông, Tài chính, ngân hàng, chứng khoán, bảo hiểm, kinh doanh",
+          "Thuế suất Thuế\nNhóm ngành nghề kinh doanh\nTNCN (%)\nPhân phối, cung cấp hàng hóa 0,5%\nDịch vụ, xây dựng không bao thầu nguyên\n2%\nvật liệu\nHoạt động cho thuê tài sản, đại lý bảo hiểm,\n5%\nđại lý xổ số, đại lý bán hàng đa cấp\nSản xuất, vận tải, dịch vụ có gắn với hàng\n1,5%\nhóa, xây dựng có bao thầu nguyên vật liệu\nHoạt động cung cấp sản phẩm và dịch vụ\nnội dung thông tin số về giải trí, trò chơi 5%\nđiện tử, phim số, ảnh số, nhạc số, quảng cáo số\nHoạt động kinh doanh khác 1%\nKÊ KHAI THUẾ",
+          "GIA TĂNG DÀNH CHO HỘ KINH DOANH\nNhằm hỗ trợ hoạt động sản xuất, kinh doanh và kích thích tiêu dùng,\nQuốc hội đã ban hành Nghị quyết số 204/2025/QH15 ngày 17 tháng 6\nnăm 2025 về giảm thuế giá trị gia tăng, Chính phủ đã ban hành Nghị\nđịnh sô 174/2025/NĐ-CP ngày 30/6/2025 quy định quy định chính sách\ngiảm thuế giá trị gia tăng theo nghị quyết số 204/2025/QH15.\nTheo đó, Hộ kinh doanh được giảm 20% mức tỷ lệ % để tính thuế giá trị\ngia tăng khi thực hiện xuất hóa đơn đối với hàng hóa, dịch vụ.",
+          "không phân biệt đã thu được tiền hay chưa thu được tiền.\n(2) Tỷ lệ thuế tính trên doanh thu\n- Tỷ lệ thuế tính trên doanh thu gồm tỷ lệ thuế GTGT và tỷ lệ thuế TNCN\náp dụng chi tiết đối với từng lĩnh vực, ngành nghề theo hướng dẫn tại Phụ lục I\nban hành kèm theo Thông tư 40/2021/TT-BTC.\n- Trường hợp hộ kinh doanh hoạt động nhiều lĩnh vực, ngành nghề thì hộ\nkinh doanh, cá nhân kinh doanh thực hiện khai và tính thuế theo tỷ lệ thuế tính"
+        ],
+        "sources": [
+          {
+            "id": "legal/so_tay_thue.md::chunk-49",
+            "score": 0.7515532374382019,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-160",
+            "score": 0.654674768447876,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-51",
+            "score": 0.6539605259895325,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-159",
+            "score": 0.6450765132904053,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-499",
+            "score": 0.6328096985816956,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 19.161,
+        "refused": false
+      },
+      {
+        "id": "gd-13",
+        "question": "Thuế suất TNCN áp dụng cho hộ kinh doanh có doanh thu năm từ trên 500 triệu đến 3 tỷ đồng (nộp thuế trên doanh thu toàn phần) là bao nhiêu?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp, đối với hộ kinh doanh có doanh thu năm trên 500 triệu đồng đến 03 tỷ đồng lựa chọn nộp thuế TNCN trên doanh thu, thuế suất thuế TNCN được xác định là 15% [Document 1]. Ngoài ra, tài liệu cũng nêu rõ mức thuế suất TNCN cho mức doanh thu này là 15% [Document 1, Document 5].",
+        "retrieved_contexts": [
+          "nguyên vật liệu\nHoạt động kinh doanh khác 2%\n► Thuế suất thuế TNCN:\nMức doanh thu năm Thuế suất TNCN\nDoanh thu trên 500 triệu đến 03 tỷ đồng 15%\nDoanh thu trên 03 tỷ đến 50 tỷ đồng 17%\nDoanh thu trên 50 tỷ đồng 20%\nRiêng hộ kinh doanh có doanh thu năm trên 500 triệu đồng đến 03 tỷ đồng\nlựa chọn nộp thuế TNCN trên doanh thu thì căn cứ ngành nghề kinh doanh\nthuế suất thuế TNCN được xác định như sau:\n18",
+          "được cơ quan thuế cấp mã định danh\nkhoản phải nộp thì hộ kinh doanh thực\nhiện nộp theo mã định danh khoản\nphải nộp\n2.3. Hộ kinh doanh có doanh thu năm trên 3 tỷ đồng đến 50 tỷ\nđồng hoặc trên 500 triệu đồng đến 3 tỷ đồng lựa chọn nộp thuế\nTNCN trên thu nhập tính thuế\nSTT NỘI DUNG\nI Bước 1: Xác định phương pháp tính thuế\n- GTGT: tỷ lệ % trên doanh thu.\n- TNCN:\n+) Doanh thu trên 500 triệu đồng đến 3\nPhương pháp tính tỷ đồng: thu nhập tính thuế nhân (x) với\n1\nthuế GTGT, TNCN thuế suất 15%",
+          "nộp thuế TNCN theo quy định pháp luật về thuế GTGT và thuế TNCN. Hộ kinh\ndoanh theo hình thức nhóm cá nhân, hộ gia đình thì mức doanh thu từ 100 triệu\nđồng/năm trở xuống để xác định cá nhân không phải nộp thuế GTGT, không\nphải nộp thuế TNCN được xác định cho một (01) người đại diện duy nhất của\nnhóm cá nhân, hộ gia đình trong năm tính thuế.\nDo quan niệm hiện nay không rõ ràng về việc hộ kinh doanh có phải là\ndoanh nghiệp hay không nên hộ kinh doanh không phải chịu thuế thu nhập",
+          "|     | năm trên 3 tỷ đồng hoặc trên  |                 | lựa chọn nộp thuế TNCN trên    |                  |        |\n500 triệu đồng đến 3 tỷ đồng  thu nhập tính thuế thì hộ kinh\n|     | lựa chọn nộp thuế TNCN trên  |     | doanh, cá nhân kinh doanh  |     |     |\n| --- | ---------------------------- | --- | -------------------------- | --- | --- |\nthu nhập tính thuế thì hộ kinh  thực  hiện  quyết  toán  thuế",
+          "Thuế GTGT phải nộp = Doanh thu × Tỷ lệ % thuế GTGT\n► Thuế TNCN của hộ kinh doanh, cá nhân kinh doanh được xác định\ntheo một trong hai phương pháp sau:\n(1) Phương pháp nộp thuế trên doanh thu tính thuế\nÁp dụng đối với hộ kinh doanh, cá nhân kinh doanh có doanh thu\nnăm trên 500 triệu đồng đến 03 tỷ đồng lựa chọn phương pháp này\nThuế TNCN phải nộp\n= Doanh thu tính thuế (doanh thu - 500 triệu đồng) × Thuế suất TNCN\n(2) Phương pháp nộp thuế trên thu nhập tính thuế"
+        ],
+        "sources": [
+          {
+            "id": "legal/so_tay_thue.md::chunk-50",
+            "score": 0.773956298828125,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-85",
+            "score": 0.7312120795249939,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-483",
+            "score": 0.6889997720718384,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-63",
+            "score": 0.6857145428657532,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-34",
+            "score": 0.6805129051208496,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          }
+        ],
+        "latency_s": 61.06,
+        "refused": false
+      },
+      {
+        "id": "gd-14",
+        "question": "Mã số thuế của hộ kinh doanh được xác định như thế nào?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp, mã số thuế của hộ kinh doanh được xác định như sau:\n\n* Mã số thuế cấp cho hộ kinh doanh chính là mã số thuế của các cá nhân hoặc đại diện hộ kinh doanh [Document 1, Document 4].\n* Địa điểm kinh doanh của hộ kinh doanh cũng được cấp mã số thuế [Document 2].\n* Mã số thuế của hộ kinh doanh đồng thời là mã số hộ kinh doanh – đây là dãy số được tạo tự động bởi Hệ thống ứng dụng đăng ký thuế truyền sang Hệ thống thông tin về đăng ký hộ kinh doanh [Document 5].\n* Khi có thay đổi về chủ hộ, thông tin sẽ được truyền sang cơ quan thuế theo cơ chế liên thông để cấp mã số thuế cho hộ kinh doanh theo chủ hộ mới [Document 3].",
+        "retrieved_contexts": [
+          "được hưởng thuế khoán. Cũng theo cách tiếp cận của Bộ Luật Dân sự năm 2015 đối với hộ kinh\ndoanh, Luật Quản lý thuế năm 2019 đã giải quyết vấn đề này một cách tương đối rõ ràng, triệt\nđể bằng cách quy định mã số thuế cấp cho hộ kinh doanh chính là mã số thuế của các cá nhân,\nđại diện hộ kinh doanh. Như vậy, Luật Quản lý thuế đã quy tư cách chủ thể của hộ kinh doanh là\ncá nhân kinh doanh. Cách tiếp cận này cần được tiếp tục kiên trì duy trì đối với hộ kinh doanh",
+          "- Bổ sung khái niệm về mã số hộ kinh doanh. Mã số này là dãy số được\ntạo tự động bởi Hệ thống ứng dụng đăng ký thuế truyền sang Hệ thống thông tin\nvề đăng ký hộ kinh doanh, đồng thời là mã số thuế của hộ kinh doanh. Mã số hộ\nkinh doanh được sử dụng để thực hiện liên thông thủ tục đăng ký hộ kinh doanh,\nphục vụ công tác quản lý nhà nước và trao đổi thông tin về hộ kinh doanh.\n3.1.2. Cơ cấu tổ chức của hộ kinh doanh\nVề cơ cấu tổ chức, theo quy định của Nghị định số 01/2021/NĐ-CP thì hộ",
+          "doanh còn lại. Theo quy định tại Điểm h, khoản 3, Điều 5 Thông tư số\n105/2020/TT-BTC, ngày 03/12/2020 của Bộ trưởng Bộ Tài chính hướng dẫn về\nđăng ký thuế, thì địa điểm kinh doanh của hộ kinh doanh được cấp mã số thuế\nvà quản lý thuế. Để đáp ứng nhu cầu về việc triển khai thực hiện liên thông thủ\ntục đăng ký kinh doanh và đăng ký thuế đối với hộ kinh doanh, Thông tư số\n02/2023/TT- BKHĐT đã bổ sung quy định về việc thông báo hoạt động địa",
+          "doanh. Để vay vốn, HKD thực hiện vay vốn dưới hình thức hợp đồng tín dụng giữa tổ chức tín\ndụng và chủ hộ kinh doanh với tư cách cá nhân6.\nNgành thuế cũng đã có những đổi mới tương tự, tuân thủ các nguyên tắc của Bộ Luật Dân sự.\nLuật Quản lý thuế năm 2019 đã giải quyết vấn đề này một cách tương đối rõ ràng, triệt để. Theo\nquy định của Luật Quản lý thuế, mã số thuế cấp cho hộ kinh doanh chính là mã số thuế của các",
+          "tại Điều 100, Nghị định 168/2025/NĐ-CP về đăng ký doanh nghiệp. Thông\ntin thay đổi sẽ được truyền sang cơ quan thuế theo cơ chế liên thông để\ncấp mã số thuế cho hộ kinh doanh theo chủ hộ mới.\n53"
+        ],
+        "sources": [
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-230",
+            "score": 0.7319629192352295,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-448",
+            "score": 0.7296570539474487,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-743",
+            "score": 0.7221749424934387,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-86",
+            "score": 0.7133861780166626,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-175",
+            "score": 0.7062667012214661,
+            "retrieval_method": "dense",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          }
+        ],
+        "latency_s": 52.126,
+        "refused": false
+      },
+      {
+        "id": "gd-15",
+        "question": "Theo Nghị định số 70/2025/NĐ-CP, hộ kinh doanh có doanh thu từ bao nhiêu trở lên phải sử dụng hóa đơn điện tử khởi tạo từ máy tính tiền?",
+        "answerable": true,
+        "answer": "Theo Nghị định số 70/2025/NĐ-CP, hộ kinh doanh có doanh thu từ 1 tỷ đồng/năm trở lên phải sử dụng hóa đơn điện tử phát hành qua máy tính tiền kết nối cơ quan thuế [Document 1].",
+        "retrieved_contexts": [
+          "| --- | --- | --- | --- |  \n|  Nghị định số 70/2025/NĐ-CP  |  Áp dụng hóa đơn điện tử cho hộ kinh doanh có doanh thu ≥1 tỷ đồng/năm.  |  01/06/2025  |  - HKD ≥1 tỷ đồng/năm phải sử dụng hóa đơn điện tử phát hành qua máy tính tiền kết nối cơ quan thuế; - HKD đạt quy mô tối đa doanh nghiệp siêu nhỏ phải áp dụng kế toán và [**kê khai thuế**](https://einvoice.vn/tin-tuc/ke-khai-thue-gtgt).  |",
+          ". Theo cơ chế mới, hộ kinh doanh, cá nhân kinh doanh có doanh thu tính thuế giá trị gia tăng từ ngưỡng nhất định trở lên phải áp dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế; đồng thời, từ ngày 01/01/2026, các hộ kinh doanh, cá nhân kinh doanh có doanh thu trên 500 triệu đồng đã chuyển sang phương pháp kê khai nộp thuế",
+          "* Từ ngày 1/7/2022 hộ kinh doanh nộp thuế theo phương pháp kê khai và những hộ kinh doanh có nhu cầu xuất hóa đơn lẻ theo từng lần phát sinh phải sử dụng hóa đơn điện tử. Trước đây hộ kinh doanh phải mua lẻ từng tờ hóa đơn của cơ quan thuế khi có nhu cầu xuất cho khách hàng.\n  * Hộ kinh doanh hoạt động trong những ngành nghề sau phải sử dụng hóa đơn điện tử: điện lực, xăng dầu, bảo hiểm, y tế, kinh doanh siêu thị, thương mại điện tử, bưu chính viễn thông…",
+          "### [Đề xuất nâng ngưỡng doanh thu hộ kinh doanh lên 2–3 tỷ đồng mới phải xuất hóa đơn điện tử ](https://einvoice.vn/tin-tuc/nguong-doanh-thu-2-3-ty-dong-moi-phai-xuat-hoa-don-dien-tu) 04/08/2025-2843 lượt xem \n[![Hộ kinh doanh vi phạm hóa đơn: Có nên tạm miễn phạt 2 năm đầu?](https://einvoice.vn/FileUpload/images/News/0616f3fb-ed32-4f33-b154-4ca7dc1ab97a.png)](https://einvoice.vn/tin-tuc/ho-kinh-doanh-vi-pham-hoa-don-co-nen-tam-mien-phat-2-nam-dau)",
+          ". Nghị định số 168/2025/NĐ-CP đã dành riêng một chương quy định về hộ kinh doanh và đăng ký hộ kinh doanh; Nghị định số 70/2025/NĐ-CP ngày 20/3/2025 sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP về hóa đơn, chứng từ cùng Thông tư số 32/2025/TT-BTC tiếp tục hoàn thiện khuôn khổ pháp lý về hóa đơn, chứng từ điện tử; Thông tư số 152/2025/TT-BTC hướng dẫn chế độ kế toán đối với hộ kinh doanh, cá nhân kinh doanh; Nghị định số 68/2026/NĐ-CP ngày 05/3/2026 về chính sách thuế và quản lý"
+        ],
+        "sources": [
+          {
+            "id": "news/article_05.md::chunk-17",
+            "score": 0.7788687348365784,
+            "retrieval_method": "dense",
+            "source": "article_05.md",
+            "title": "article_05"
+          },
+          {
+            "id": "news/article_04.md::chunk-49",
+            "score": 0.7371777892112732,
+            "retrieval_method": "dense",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "news/article_03.md::chunk-30",
+            "score": 0.7080538868904114,
+            "retrieval_method": "dense",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "news/article_05.md::chunk-36",
+            "score": 0.6964131593704224,
+            "retrieval_method": "dense",
+            "source": "article_05.md",
+            "title": "article_05"
+          },
+          {
+            "id": "news/article_04.md::chunk-41",
+            "score": 0.6870311498641968,
+            "retrieval_method": "dense",
+            "source": "article_04.md",
+            "title": "article_04"
+          }
+        ],
+        "latency_s": 27.072,
+        "refused": false
+      },
+      {
+        "id": "gd-16",
+        "question": "Có đề xuất nào về việc nâng ngưỡng doanh thu phải xuất hóa đơn điện tử cho hộ kinh doanh không, và nâng lên mức bao nhiêu?",
+        "answerable": true,
+        "answer": "Có đề xuất nâng ngưỡng doanh thu hộ kinh doanh lên mức 2–3 tỷ đồng mới phải xuất hóa đơn điện tử [Document 1, Document 5].",
+        "retrieved_contexts": [
+          "### [Đề xuất nâng ngưỡng doanh thu hộ kinh doanh lên 2–3 tỷ đồng mới phải xuất hóa đơn điện tử ](https://einvoice.vn/tin-tuc/nguong-doanh-thu-2-3-ty-dong-moi-phai-xuat-hoa-don-dien-tu) 04/08/2025-2843 lượt xem \n[![Hộ kinh doanh vi phạm hóa đơn: Có nên tạm miễn phạt 2 năm đầu?](https://einvoice.vn/FileUpload/images/News/0616f3fb-ed32-4f33-b154-4ca7dc1ab97a.png)](https://einvoice.vn/tin-tuc/ho-kinh-doanh-vi-pham-hoa-don-co-nen-tam-mien-phat-2-nam-dau)",
+          "### [Miễn thuế TNDN 2 năm cho hộ kinh doanh chuyển lên doanh nghiệp: Đề xuất mới từ Bộ Tài chính ](https://einvoice.vn/tin-tuc/mien-thue-tndn-2-nam-cho-ho-kinh-doanh-chuyen-len-doanh-nghiep) 25/07/2025-8059 lượt xem \n[![Đề xuất nâng ngưỡng doanh thu hộ kinh doanh lên 2–3 tỷ đồng mới phải xuất hóa đơn điện tử](https://einvoice.vn/FileUpload/images/News/aea2863d-f2cb-40b7-bd26-5450434c0f31.png)](https://einvoice.vn/tin-tuc/nguong-doanh-thu-2-3-ty-dong-moi-phai-xuat-hoa-don-dien-tu)",
+          ". Theo cơ chế mới, hộ kinh doanh, cá nhân kinh doanh có doanh thu tính thuế giá trị gia tăng từ ngưỡng nhất định trở lên phải áp dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế; đồng thời, từ ngày 01/01/2026, các hộ kinh doanh, cá nhân kinh doanh có doanh thu trên 500 triệu đồng đã chuyển sang phương pháp kê khai nộp thuế",
+          "| --- | --- | --- | --- |  \n|  Nghị định số 70/2025/NĐ-CP  |  Áp dụng hóa đơn điện tử cho hộ kinh doanh có doanh thu ≥1 tỷ đồng/năm.  |  01/06/2025  |  - HKD ≥1 tỷ đồng/năm phải sử dụng hóa đơn điện tử phát hành qua máy tính tiền kết nối cơ quan thuế; - HKD đạt quy mô tối đa doanh nghiệp siêu nhỏ phải áp dụng kế toán và [**kê khai thuế**](https://einvoice.vn/tin-tuc/ke-khai-thue-gtgt).  |",
+          "tiện ích nhỏ và cả nhiều hộ kinh doanh lớn, máy kết nối để tính hóa đơn điện tử\nvẫn chưa đảm bảo.\nTheo quy định hiện nay, người tiêu dùng mua hàng có giá trị từ 200.000\nđồng trở lên, nếu yêu cầu, cơ sở bán hàng phải xuất hóa đơn. Nhưng hiện nay,\nngười tiêu dùng đi ăn ở các nhà hàng, quán ăn… muốn có hóa đơn để về thanh\ntoán nhiều khi rất khó, đòi hỏi hóa đơn từ máy tính tiền cũng rất khó. Tuy nhiên\ntrên thực tế, nếu hộ kinh doanh xuất hóa đơn nhiều sẽ vượt số thuế khoán. Như"
+        ],
+        "sources": [
+          {
+            "id": "news/article_05.md::chunk-36",
+            "score": 0.7821186184883118,
+            "retrieval_method": "dense",
+            "source": "article_05.md",
+            "title": "article_05"
+          },
+          {
+            "id": "news/article_05.md::chunk-35",
+            "score": 0.7578005194664001,
+            "retrieval_method": "dense",
+            "source": "article_05.md",
+            "title": "article_05"
+          },
+          {
+            "id": "news/article_04.md::chunk-49",
+            "score": 0.7284858822822571,
+            "retrieval_method": "dense",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "news/article_05.md::chunk-17",
+            "score": 0.7137761116027832,
+            "retrieval_method": "dense",
+            "source": "article_05.md",
+            "title": "article_05"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-650",
+            "score": 0.7117791175842285,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 26.266,
+        "refused": false
+      },
+      {
+        "id": "gd-17",
+        "question": "Theo báo cáo của Economica, khu vực hộ kinh doanh và kinh tế cá thể đóng góp khoảng bao nhiêu phần trăm GDP hằng năm, và đóng góp bao nhiêu phần trăm cho ngân sách nhà nước?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp:\n\n* Khu vực kinh tế cá thể (bao gồm hộ kinh doanh và các thực thể kinh tế cá thể khác) đóng góp khoảng **30% GDP** hằng năm [Document 1, Document 2, Document 5], hoặc **30-32% GDP** trên tổng GDP cả nước [Document 4].\n* Khu vực hộ kinh doanh đóng góp khoảng **1,56%** cho tổng thu ngân sách nhà nước hằng năm [Document 1, Document 2, Document 5].",
+        "retrieved_contexts": [
+          "thấy hộ kinh doanh phổ biến đối với người dân Việt Nam đến mức nào.\n2. Đóng góp cho GDP và tạo việc làm\nKhu vực kinh tế cá thể (bao gồm hộ kinh doanh và các thực thể kinh tế cá thể khác) hiện đáng\nđóng góp khoảng 30% GDP hằng năm. Theo số liệu của Tổng cục thuế năm 2018, có khoảng trên\n1,7 triệu hộ kinh doanh (HKD) đang thực hiện nghĩa vụ thuế và đóng góp khoảng 1,56% tổng thu\nngân sách nhà nước (Tổng cục Thuế, 2018). Bình quân mỗi HKD đóng thuế 2,7 triệu đồng/ năm.",
+          "TÓM TẮT BÁO CÁO\nKhu vực kinh tế cá thể (bao gồm hộ kinh doanh và các thực thể kinh tế cá thể khác) hiện đang\nđóng góp khoảng 30% GDP hằng năm. Cả nước hiện có khoảng 5 triệu hộ kinh doanh, trong đó\ncó khoảng 1,7 triệu hộ kinh doanh (HKD) đang thực hiện nghĩa vụ thuế và đóng góp khoảng\n1,56% tổng thu ngân sách nhà nước. Khoảng 3,3 triệu hộ còn lại không đăng ký. Số việc làm trong\nkhu vực HKD là 8,49 triệu.",
+          "tế Việt Nam. Khu vực hộ kinh doanh đóng một vai trò vô cùng quan trọng trong việc đảm bảo khả\nnăng chống chịu của nền kinh tế, đặc biệt là vào thời điểm có các các cú sốc từ bên ngoài. Hiện\ncó khoảng 8,49 triệu lao động đang làm việc trong khu vực hộ kinh doanh. Khu vực hộ kinh doanh\nvà kinh tế cá thể đóng góp 30% cho GDP song chỉ đóng góp 1,56% cho Ngân sách Nhà nước hàng\nnăm (Tổng cục Thuế, 2018).\nMặc dù vậy, khu vực hộ kinh doanh cá thể vẫn được coi là khu vực phi chính thức. Hộ kinh doanh",
+          "đối với hộ kinh doanh như thế nào để đảm bảo thu đúng, thu đủ số thuế mà họ\ncó nghĩa vụ phải nộp là một yêu cầu cần thiết trong việc ổn định nguồn thu ở địa\nphương. Đặt trong mối tương quan với khối doanh nghiệp đầu tư nước ngoài\nđóng góp 27-28% GDP, khối doanh nghiệp nhà nước khoảng 20% GDP, doanh\nnghiệp tư nhân khoảng 10% GDP, thì hộ kinh doanh đang là đối trọng lớn khi\nđóng góp 30-32% GDP trên tổng GDP cả nước. Doanh thu của khu vực hộ kinh",
+          "Trong khi đó, mức đóng góp bình quân cho NSNN của mỗi DN là 1,7 tỷ đồng/ năm.\nHình 1. Đóng góp GDP từ các thành phần kinh tế\nNguồn: Niên Giám Thống Kê, Tổng điều tra kinh tế, Tổng cục Thống Kê (2021 và các năm).\nCác HKD đã thu hút và tạo việc làm cho khoảng 8,49 triệu lao động năm 2021. Lao động làm việc\ntại các hộ kinh doanh năm 2020 chiếm 37% tổng lao động của khu vực doanh nghiệp, cao hơn so\n4 Con số này cao hơn so với tỷ lệ khoảng cứ 111 người dân thì có 1 doanh nghiệp vào năm 2021.\n12"
+        ],
+        "sources": [
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-57",
+            "score": 0.7296816110610962,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-20",
+            "score": 0.7185869812965393,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-3",
+            "score": 0.712648332118988,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-281",
+            "score": 0.6950494050979614,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-58",
+            "score": 0.6564452052116394,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          }
+        ],
+        "latency_s": 26.598,
+        "refused": false
+      },
+      {
+        "id": "gd-18",
+        "question": "Cả nước hiện có khoảng bao nhiêu hộ kinh doanh, và trong đó có khoảng bao nhiêu hộ đang thực hiện nghĩa vụ thuế?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp:\n\n* Cả nước hiện có khoảng 5 triệu hộ kinh doanh [Document 2, Document 4].\n* Trong đó, có khoảng 1,7 triệu hộ kinh doanh đang thực hiện nghĩa vụ thuế [Document 2] (hoặc đã đăng ký [Document 4]).",
+        "retrieved_contexts": [
+          "Hộ kinh doanh hiện là một bộ phận chủ thể kinh doanh có vị trí quan trọng trong khu vực kinh tế tư nhân ở Việt Nam, với số lượng lớn, phạm vi hoạt động rộng và mức độ hiện diện ngày càng rõ trong môi trường kinh doanh số. Theo số liệu công bố đầu năm 2025, cả nước có trên 5 triệu hộ kinh doanh[1](/#_ftn1); riêng Hà Nội đến cuối năm 2025 có 356.737 hộ và cá nhân kinh doanh đang hoạt động[2](/#_ftn2)",
+          "hợp với thực tế kinh doanh, nhất là các hộ hoạt động kinh doanh trong các ngành\nnghề đặc thù như dịch vụ ăn uống, nhà nghỉ…\nVề chế độ thuế đối với hộ kinh doanh, hiện nay, cả nước có khoảng gần 6\n73 Xem thêm: Nguyễn Lương (2019), Bất cập trong thu thuế đối với hộ kinh doanh, Báo Đăk Nông ngày\n29/8/2019, link: https://baodaknong.vn/bat-cap-trong-quan-ly-thue-doi-voi-ho-kinh-doanh-82307.html\n127",
+          "TÓM TẮT BÁO CÁO\nKhu vực kinh tế cá thể (bao gồm hộ kinh doanh và các thực thể kinh tế cá thể khác) hiện đang\nđóng góp khoảng 30% GDP hằng năm. Cả nước hiện có khoảng 5 triệu hộ kinh doanh, trong đó\ncó khoảng 1,7 triệu hộ kinh doanh (HKD) đang thực hiện nghĩa vụ thuế và đóng góp khoảng\n1,56% tổng thu ngân sách nhà nước. Khoảng 3,3 triệu hộ còn lại không đăng ký. Số việc làm trong\nkhu vực HKD là 8,49 triệu.",
+          "Theo Tổng cục Thống kê, hiện nay trên toàn quốc có khoảng 5 triệu hộ kinh doanh, trong đó có\nkhoảng 1,7 triệu hộ kinh doanh đã đăng ký. Trong giai đoạn 2011-2021, đã có khoảng 1 triệu hộ\nkinh doanh đi vào hoạt động và vẫn đang duy trì hoạt động cho tới nay. Giả định rằng chỉ cần\n50% số các hộ kinh doanh này đã đăng ký theo hình thức cá nhân kinh doanh, doanh nghiệp cá\nthể (sole proprietorship) thay vì đăng ký theo hình thức hộ kinh doanh và với tỷ lệ doanh nghiệp",
+          "triệu hộ kinh doanh đăng ký chính thức, trong đó có khoảng 5-10% là hộ kinh\ndoanh lớn và đang nộp thuế theo hình thức kê khai như doanh nghiệp. Còn lại\nkhoảng 90% hộ kinh doanh vẫn đang nộp thuế khoán. Tuy nhiên, hiện nay,\nphương pháp tính thuế đối với hộ kinh doanh, cá nhân kinh doanh nộp thuế theo\nphương pháp khoán, trong khi phương pháp khoán là không thể chính xác. Lý\ndo là vì hiện nay, thuế khoán được tính theo từng năm, nhưng chỉ đối với những"
+        ],
+        "sources": [
+          {
+            "id": "news/article_04.md::chunk-12",
+            "score": 0.7580969929695129,
+            "retrieval_method": "dense",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-646",
+            "score": 0.7434447407722473,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-20",
+            "score": 0.7414472103118896,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-112",
+            "score": 0.7389456033706665,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-647",
+            "score": 0.7285852432250977,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 20.781,
+        "refused": false
+      },
+      {
+        "id": "gd-19",
+        "question": "Lãi suất vay ngân hàng ưu đãi hiện nay cho hộ kinh doanh vay vốn là bao nhiêu phần trăm mỗi năm?",
+        "answerable": false,
+        "answer": "Dựa trên các tài liệu được cung cấp, không có thông tin cụ thể về con số phần trăm chính xác của mức lãi suất vay ngân hàng ưu đãi dành cho hộ kinh doanh [Document 1, Document 5]. Tài liệu chỉ đề cập rằng Ngân hàng Bản Việt (BVBank) đang có gói tín dụng hỗ trợ khách hàng tiếp cận nguồn vốn vay với \"lãi suất ưu đãi\" [Document 5]. Do đó, tôi từ chối xác minh mức lãi suất cụ thể là bao nhiêu phần trăm mỗi năm do thiếu evidence.",
+        "retrieved_contexts": [
+          "hoạt, thời gian giải ngân nhanh chóng. Hộ kinh doanh hoặc tiểu thương vay sản\nxuất kinh doanh, gia công, chế biến, kinh doanh thương mại có thể thế chấp tài\nsản đảm bảo là bất động sản, thời gian vay tối đa 60 tháng, số tiền vay lên đến 2\ntỷ đồng.\nÔng Ngô Minh Sang, Giám đốc Khối khách hàng cá nhân của BVBank\ncho biết, hoạt động cho vay đối với hộ kinh doanh, bên cạnh việc áp dụng mức\nlãi suất ưu đãi thì việc duyệt hồ sơ, thời gian giải ngân, phương thức cho vay...",
+          "đứng tên để vay vốn ngân hàng. Giá trị khoản cho vay hộ gia đình thường không\nlớn, nhưng số lượng khoản vay cho nhóm khách hàng này rất nhiều. Các ngân\nhàng thiết kế sản phẩm tín dụng cho hộ kinh doanh trên các ứng dụng công nghệ\nngân hàng số để tiện theo dõi và quản lý với chi phí thấp.\nNgân hàng Bản Việt (BVBank) đang có gói tín dụng cho hộ kinh doanh\nđô thị hỗ trợ khách hàng tiếp cận nguồn vốn vay với lãi suất ưu đãi, thủ tục linh",
+          "1,4%/năm, thấp hơn so với mức 3%/năm giai đoạn 2011-2016. Nguyên nhân chủ yếu của mức\ntăng bình quân thấp và có xu hướng giảm nhẹ trong 2 năm gần đây là do đại dịch Covid -19 đã có\nảnh hưởng tiêu cực tới tốc độ tăng trưởng số lượng hộ kinh doanh.\nBảng 1. Phân bố hộ kinh doanh theo ngành nghề, lĩnh vực hoạt động\nNăm 2011 2015 2019 2020 2021\nTổng số (1.000 hộ) 4.236,3 4.754,8 5.377,7 5.200,4 5.067,4\nCơ cấu (%) 100,0% 100,0% 100,0% 100,0% 100,0%",
+          "tháng. Với mức lợi nhuận khoảng 10%, một HKD chỉ tạo ra một mức lợi nhuận hay thu nhập\nkhoảng 4,5-5 triệu đồng mỗi tháng cho cả chủ hộ kinh doanh và người lao động trong hộ. Mức\nnày thấp hơn mức thu nhập bình quân tháng của người lao động làm công hưởng lương (khoảng\n6,6 triệu đồng vào năm 2020).\nTừ góc độ doanh thu, bức tranh về hộ kinh doanh cũng rất đa dạng. Theo Tổng cục Thuế, hiện có\nkhoảng 110.000 HKD có doanh thu trên 1 tỷ đồng mỗi năm, tức là xấp xỉ 100 triệu đồng một",
+          "Hình 3. Quy mô vốn, giá trị TSCĐ và Doanh thu trung bình của một HKD (triệu VND)\nNguồn: Niên Giám Thống Kê, Tổng điều tra kinh tế, Tổng cục Thống Kê (2021 và các năm)\n* Sơ bộ và uớc tính\nVới mức vốn khiêm tốn, doanh thu trung bình một năm của một hộ kinh doanh cũng chỉ đạt 473\ntriệu đồng/ hộ vào năm 2015 và tăng lên khoảng 550 triệu đồng/ hộ vào năm 2020. Như vậy, tính\ntrung bình vào năm 2020, một hộ kinh doanh tạo ra mức doanh thu khoảng 45 triệu đồng mỗi"
+        ],
+        "sources": [
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-660",
+            "score": 0.638729989528656,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-659",
+            "score": 0.6006497144699097,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-53",
+            "score": 0.596084713935852,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-69",
+            "score": 0.5950190424919128,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-68",
+            "score": 0.5941641330718994,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          }
+        ],
+        "latency_s": 18.63,
+        "refused": false
+      },
+      {
+        "id": "gd-20",
+        "question": "Thủ tục và chi phí thành lập công ty cổ phần tại Singapore cho nhà đầu tư nước ngoài như thế nào?",
+        "answerable": false,
+        "answer": "Dựa trên context được cung cấp, không có thông tin chi tiết về thủ tục và chi phí thành lập công ty cổ phần tại Singapore cho nhà đầu tư nước ngoài. Do đó, tôi từ chối xác minh câu hỏi này.",
+        "retrieved_contexts": [
+          "[ ![](https://luattinminh.vn/uploads/images/dich-vu/40/dich-vu-thanh-lap-cong-ty-co-phan.jpg) ](https://luattinminh.vn/dich-vu-thanh-lap-cong-ty-co-phan)\n##### [Dịch vụ làm thủ tục thành lập công ty cổ phần, từ 1.200.000đ](https://luattinminh.vn/dich-vu-thanh-lap-cong-ty-co-phan)\n![](https://luattinminh.vn/images/icons/icon-thanh-cong.png)\nGửi thông tin thành công\nLuật Tín Minh cảm ơn bạn đã đánh giá và viết nhận xét cho chúng tôi!\n##### Hãy nhập thêm thông tin sau:\nHoàn thành",
+          "phòng của CCM hoặc thông qua dịch vụ đăng ký doanh nghiệp qua mạng điện\ntử Ezbiz8. Thời gian đăng ký doanh nghiệp cá thể được thực hiện trong vòng 30\nngày kể từ ngày bắt đầu kinh doanh. Để bắt đầu đăng ký kinh doanh tại\nSingapore, người đăng ký cần đăng ký với cơ quan đăng ký kinh doanh (ACRA)\ncủa Singapore. Để đăng ký doanh nghiệp cá thể, người đăng ký cần điền vào\nđơn đăng ký điện tử thông qua BizFile- Hệ thống truy xuất thông tin của ACRA",
+          "##### [Dịch vụ làm thủ tục thành lập công ty trọn gói - từ 1.200.000đ](https://luattinminh.vn/dich-vu-thanh-lap-cong-ty-tron-goi)\n[ ![](https://luattinminh.vn/uploads/images/dich-vu/39/dich-vu-thanh-lap-cong-ty-tnhh.jpg) ](https://luattinminh.vn/dich-vu-thanh-lap-cong-ty-tnhh)\n##### [Dịch vụ làm thủ tục thành lập công ty TNHH – Từ 1.200.000đ](https://luattinminh.vn/dich-vu-thanh-lap-cong-ty-tnhh)",
+          "động và có trách nhiệm tham gia BHXH cho người lao động. Chế độ thuế áp dụng đối với doanh\nnghiệp cá thể là thuế cá nhân.\nTại Singapore và Malaysia, cá nhân kinh doanh hay doanh nghiệp cá thể được quy định trong Luật\nĐăng ký Kinh doanh (Business Registration Act). Tại Thái Lan, cá nhân kinh doanh hay doanh\nnghiệp cá thể là một hình thức kinh doanh quy định chung theo Luật Dân sự và Thương mại. Dù\nđược quy định trong văn bản pháp luật nào, cá nhân kinh doanh hay doanh nghiêp cá thể ở các",
+          "nghiệp không có quy định giới hạn loại hình doanh nghiệp đối với nhà đầu tư\nnước ngoài. Do đó, nhà đầu tư có thể lựa chọn: Công trách nhiệm hữu hạn một\nthành viên; Công ty trách nhiệm hữu hạn hai thành viên trở lên; Công ty cổ\nphần; Công ty hợp danh.\nTại Khoản 1 Điều 7 Luật Doanh nghiệp 2020, doanh nghiệp được tự do\nkinh doanh ngành, nghề mà luật không cấm. Như vậy, người nước ngoài được\nthành lập doanh nghiệp tại Việt Nam với tư cách là nhà đầu tư nước ngoài khi"
+        ],
+        "sources": [
+          {
+            "id": "news/article_03.md::chunk-44",
+            "score": 0.6266669631004333,
+            "retrieval_method": "dense",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-74",
+            "score": 0.607296347618103,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "news/article_03.md::chunk-43",
+            "score": 0.5549087524414062,
+            "retrieval_method": "dense",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-127",
+            "score": 0.5465570688247681,
+            "retrieval_method": "dense",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-408",
+            "score": 0.5384225845336914,
+            "retrieval_method": "dense",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 18.374,
+        "refused": false
+      }
+    ],
+    "per_case_scores": {
+      "gd-01": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.7347310780855525,
+        "context_recall": 0.5,
+        "context_precision": NaN
+      },
+      "gd-02": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9963744483322661,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-03": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9660814685401584,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-04": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.8485953077168991,
+        "context_recall": 0.0,
+        "context_precision": NaN
+      },
+      "gd-05": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9804476583393873,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-06": {
+        "faithfulness": 0.6666666666666666,
+        "answer_relevancy": NaN,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-07": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.8447626324337909,
+        "context_recall": 0.5,
+        "context_precision": NaN
+      },
+      "gd-08": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9984867197311771,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-09": {
+        "faithfulness": 0.9,
+        "answer_relevancy": 0.9925767700126181,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-10": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.8690148271225726,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-11": {
+        "faithfulness": NaN,
+        "answer_relevancy": NaN,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-12": {
+        "faithfulness": NaN,
+        "answer_relevancy": NaN,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-13": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.8440357363934949,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-14": {
+        "faithfulness": 1.0,
+        "answer_relevancy": NaN,
+        "context_recall": 0.0,
+        "context_precision": 0.9999999999
+      },
+      "gd-15": {
+        "faithfulness": 1.0,
+        "answer_relevancy": NaN,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999
+      },
+      "gd-16": {
+        "faithfulness": 1.0,
+        "answer_relevancy": NaN,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999995
+      },
+      "gd-17": {
+        "faithfulness": 0.25,
+        "answer_relevancy": 0.8550616968323266,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999666667
+      },
+      "gd-18": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9870434457605576,
+        "context_recall": 1.0,
+        "context_precision": 0.4166666666458333
+      }
+    },
+    "aggregate": {
+      "faithfulness": 0.9260416666666667,
+      "answer_relevancy": 0.9097676491084,
+      "context_recall": 0.8333333333333334,
+      "context_precision": 0.8833333332725
+    }
+  },
+  "config_B": {
+    "records": [
+      {
+        "id": "gd-01",
+        "question": "Theo Nghị định 01/2021/NĐ-CP, hộ kinh doanh được định nghĩa như thế nào?",
+        "answerable": true,
+        "answer": "Theo khoản 1 Điều 79 Nghị định 01/2021/NĐ-CP, hộ kinh doanh được định nghĩa như sau: “Hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh của hộ” [Document 1, Document 2, Document 5].",
+        "retrieved_contexts": [
+          "## **I. Thế nào là hộ kinh doanh?**\nHiện nay không có quy định, định nghĩa hộ kinh doanh là gì. Tuy nhiên, theo quy định tại khoản 1 Điều 79 Nghị định 01/2021/NĐ-CP thì hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh của hộ. \n- Hộ kinh doanh bao gồm 2 loại:\n+ Hộ kinh doanh do một cá nhân đăng ký thành lập;\n+ Hộ kinh doanh do các thành viên hộ gia đình đăng ký thành lập.",
+          "sử dụng từ Nghị định số 43/2010/NĐ-CP, Nghị định số 78/2015/NĐ-CP và hiện\nnay là Nghị định số 01/2021/NĐ-CP.\nTheo khoản 1 Điều 79, Nghị định số 01/2021/NĐ-CP của Chính phủ ngày\n04/01/2021 quy định về đăng ký doanh nghiệp Hộ kinh doanh được định nghĩa\nnhư sau: “Hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng\nký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt\nđộng kinh doanh của hộ”. Khái niệm về hộ kinh doanh có sự thay đổi qua quá",
+          "sử dụng từ Nghị định số 43/2010/NĐ-CP, Nghị định số 78/2015/NĐ-CP và hiện\nnay là Nghị định số 01/2021/NĐ-CP.\nTheo khoản 1 Điều 79, Nghị định số 01/2021/NĐ-CP của Chính phủ ngày\n04/01/2021 quy định về đăng ký doanh nghiệp Hộ kinh doanh được định nghĩa\nnhư sau: “Hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng\nký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt\nđộng kinh doanh của hộ”. Khái niệm về hộ kinh doanh có sự thay đổi qua quá",
+          "động, thay đổi đối với hộ kinh doanh do một nhóm người thành lập trước khi\nNghị định số 01/2021/NĐ-CP ra đời.\nThứ hai, đối với mô hình hộ kinh doanh do một hộ gia đình làm chủ sở\nhữu, cần làm rõ khái niệm hộ gia đình được đề cập đến trong khái niệm hộ kinh\ndoanh. Theo đó, khái niệm hộ gia đình cần làm rõ hộ gia đình gồm những người\ncó quan hệ hôn nhân, huyết thống, nuôi dưỡng cùng chung nhau một sản nghiệp,\nđại diện cho hộ gia đình gọi là chủ hộ. Thực tế cho thấy quy định về các giao",
+          "(bên cạnh đối tượng chính là cá nhân). Từ 2020 đến nay, pháp luật không còn đặt giới hạn về số\nlượng lao động hộ kinh doanh như trước đây.\nTrong hệ thống pháp luật của Việt Nam hiện nay, ngoại trừ Nghị định 01/2021/NĐ-CP chỉ đưa ra\nquy định về đăng ký hộ kinh doanh, không một văn bản pháp luật nào đưa định nghĩa về HKD,\nxác định bản chất địa vị pháp lý của hộ kinh doanh.\nĐiều 79, Nghị định 01/2021/NĐ-CP về đăng ký doanh nghiệp quy định:"
+        ],
+        "sources": [
+          {
+            "id": "news/article_01.md::chunk-12",
+            "score": 0.03149801587301587,
+            "retrieval_method": "hybrid",
+            "source": "article_01.md",
+            "title": "article_01"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-204",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-205",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-758",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-49",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          }
+        ],
+        "latency_s": 19.751,
+        "refused": false
+      },
+      {
+        "id": "gd-02",
+        "question": "Hộ kinh doanh có tư cách pháp nhân và con dấu riêng hay không?",
+        "answerable": true,
+        "answer": "Hộ kinh doanh không có tư cách pháp nhân và không có con dấu riêng [Document 1, Document 2, Document 3, Document 4, Document 5].",
+        "retrieved_contexts": [
+          "**1. Thế nào là hộ kinh doanh cá thể?**\nHộ kinh doanh là loại hình kinh doanh do một cá nhân hoặc các thành viên của hộ gia đình cùng đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình, không có tư cách pháp nhân, không có con dấu riêng. \n➣ **Xem chi tiết: [Hộ kinh doanh cá thể là gì](https://luattinminh.vn/ho-kinh-doanh-la-gi#KHAINIEM)?**\n**2. Hộ kinh doanh có tư cách pháp nhân không?**\nHộ kinh doanh không có tư cách pháp nhân.",
+          "## **II. Hộ kinh doanh cá thể là gì?**\nHiểu một cách đơn giản, hộ kinh doanh (HKD) là loại hình kinh doanh do một cá nhân hoặc các thành viên của hộ gia đình cùng đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình. \nHộ kinh doanh không có tư cách pháp nhân, không có con dấu riêng. Trường hợp thành viên trong hộ gia đình cùng đăng ký thành lập hộ kinh doanh thì phải làm giấy ủy quyền cho một thành viên chịu trách nhiệm đại diện HKD và sẽ được gọi là chủ hộ.",
+          "các quy định của Nghị định số 01/2021/NĐ-CP, hộ kinh doanh không có tài sản riêng nên không\ncó tư cách pháp nhân, tài sản của cá nhân và thành viên gia đình thành lập hộ hoạt động không\ntách rời tài sản của hộ đang hoạt động. Hộ kinh doanh cũng không có con dấu và không được mở\nvăn phòng đại diện, chi nhánh, nhưng hộ kinh doanh có thể mở rộng hoạt động sản xuất kinh\ndoanh bằng cách mở nhiều mặt bằng kinh doanh.",
+          "_Thứ nhất,_ hộ kinh doanh không có tư cách pháp nhân, không có con dấu vì không đảm bảo đủ 4 điều kiện theo quy định tại điều 74 Bộ luật Dân sự 2015. Theo quy định, pháp nhân sẽ chịu trách nhiệm đối với tài sản riêng của mình, mà chế độ chịu trách nhiệm của hộ kinh doanh cá thể là cá nhân, thành viên hộ gia đình đăng ký thành lập phải chịu trách nhiệm vô hạn bằng tài sản riêng. Thêm đó, hộ gia đình cũng không có tài sản độc lập với cá nhân, thành viên hộ gia đình đăng ký thành lập",
+          "### **3. Hộ kinh doanh không phải là một doanh nghiệp**\nMặc dù có tên riêng, có địa điểm kinh doanh cố định nhưng hộ kinh doanh không phải là một doanh nghiệp. Do đó, hộ kinh doanh không có con dấu riêng, không được mở chi nhánh, văn phòng đại diện và không được thực hiện các quyền của doanh nghiệp như là: thực hiện các hoạt động xuất nhập khẩu, áp dụng Luật phá sản khi kinh doanh thua lỗ.\n### **4. Chế độ chịu trách nhiệm vô hạn**"
+        ],
+        "sources": [
+          {
+            "id": "news/article_03.md::chunk-36",
+            "score": 0.03252247488101534,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "news/article_03.md::chunk-21",
+            "score": 0.03149801587301587,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-76",
+            "score": 0.03149801587301587,
+            "retrieval_method": "hybrid",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "news/article_02.md::chunk-49",
+            "score": 0.031054405392392875,
+            "retrieval_method": "hybrid",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "news/article_03.md::chunk-27",
+            "score": 0.030536130536130537,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          }
+        ],
+        "latency_s": 19.881,
+        "refused": false
+      },
+      {
+        "id": "gd-03",
+        "question": "Chủ hộ kinh doanh chịu trách nhiệm với các khoản nợ của hộ kinh doanh ở mức độ nào?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp, chủ hộ kinh doanh chịu trách nhiệm ở mức độ sau:\n\n* Chủ hộ kinh doanh phải chịu trách nhiệm vô hạn đối với các khoản nợ của hộ kinh doanh [Document 2, Document 3, Document 4], được hiểu là \"trách nhiệm đến tận cùng của nghĩa vụ trả nợ\" [Document 3].\n* Chủ hộ phải chịu trách nhiệm bằng toàn bộ tài sản cá nhân của mình (như nhà cửa, xe, trang sức cá nhân) chứ không phụ thuộc vào số vốn điều lệ đã đăng ký hay việc đã chấm dứt hoạt động kinh doanh [Document 2, Document 3, Document 4].\n* Ngoài ra, chủ hộ kinh doanh và các thành viên hộ gia đình đăng ký hộ kinh doanh còn phải chịu trách nhiệm liên đới đối với các khoản nợ và nghĩa vụ tài sản phát sinh từ hoạt động kinh doanh, kể cả trong trường hợp chủ hộ thuê người khác quản lý, điều hành [Document 1]. Nếu hộ kinh doanh do một nhóm người hoặc hộ gia đình làm chủ, tất cả các thành viên cũng phải liên đới chịu trách nhiệm vô hạn về mọi khoản nợ [Document 5].",
+        "retrieved_contexts": [
+          ". Theo Nghị định số 168/2025/NĐ-CP, chủ hộ kinh doanh và các thành viên hộ gia đình đăng ký hộ kinh doanh phải chịu trách nhiệm liên đới đối với hoạt động kinh doanh của hộ; kể cả trong trường hợp chủ hộ thuê người khác quản lý, điều hành, chủ hộ và các thành viên hộ gia đình đăng ký hộ kinh doanh vẫn phải chịu trách nhiệm đối với các khoản nợ và nghĩa vụ tài sản khác phát sinh từ hoạt động kinh doanh",
+          ". Tuy nhiên khác với doanh nghiệp tư nhân, trách nhiệm vô hạn của hộ kinh doanh có sự phân tán rủi ro cho nhiều thành viên trong trường hợp hộ kinh doanh do một nhóm người hoặc hộ gia đình làm chủ. Nếu hộ kinh doanh do một nhóm người làm chủ thì tất cả các thành viên phải liên đới chịu trách nhiệm vô hạn về mọi khoản nợ của hộ kinh doanh. Nếu hộ kinh doanh do một hộ gia đình làm chủ thì tất cả các thành viên trong hộ gia đình phải liên đới chịu trách nhiệm",
+          ". Thêm vào đó, chủ của hộ kinh doanh phải chịu trách nhiệm vô hạn đối với các khoản nợ của hộ kinh doanh; điều này có nghĩa là chủ hộ kinh doanh phải bằng toàn bộ tài sản của mình như theo Điều 79 [Nghị định 01/2021/NĐ-CP](https://bachkhoaluat.vn/van-ban-luat/30763/nghi-dinh-01-2021-ndcp-ve-dang-ky-doanh-nghiep) ngày 04/01/2021 của Chính phủ. Đồng thời, các cá nhân, nhóm người, hộ gia đình nhân danh chính mình mà không nhân danh hộ kinh doanh để tham gia vào hoạt động kinh doanh.",
+          "### **4. Chế độ chịu trách nhiệm vô hạn**\nHộ kinh doanh có chế độ chịu trách nhiệm vô hạn nghĩa là chủ hộ kinh doanh và các thành viên góp vốn cần sử dụng toàn bộ tài sản của mình để đảm bảo cho hoạt động kinh doanh và thanh toán các khoản nợ, chứ không phụ thuộc vào số vốn điều lệ đã đăng ký hay việc họ đã chấm dứt hoạt động kinh doanh.\n### **5. Số lượng lao động của hộ kinh doanh**",
+          "đặt thù của hộ kinh doanh là trách nhiệm vô hạn của chủ sở hữu hộ kinh doanh\nđối với hoạt động của hộ kinh doanh. Trách nhiệm vô hạn được PGS.TS.\nNguyễn Như Phát gọi là “trách nhiệm đến tận cùng của nghĩa vụ trả nợ”. Theo\nđó nếu hoạt động của hộ kinh doanh thất bại tạo ra khoản nợ không thể thanh\ntoán được thì chủ hộ kinh phải chịu trách nhiệm bằng toàn bộ tài sản cá nhân\ncủa họ như nhà cửa, xe, trang sức cá nhân. Nghĩa vụ này sẽ không chấm dứt khi"
+        ],
+        "sources": [
+          {
+            "id": "news/article_04.md::chunk-30",
+            "score": 0.030776515151515152,
+            "retrieval_method": "hybrid",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "news/article_02.md::chunk-26",
+            "score": 0.030309988518943745,
+            "retrieval_method": "hybrid",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "news/article_02.md::chunk-24",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "news/article_03.md::chunk-28",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-522",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 20.663,
+        "refused": false
+      },
+      {
+        "id": "gd-04",
+        "question": "Hộ kinh doanh được sử dụng tối đa bao nhiêu lao động theo quy định?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp, quy định về số lượng lao động tối đa của hộ kinh doanh như sau:\n\n* **Trước đây:** Hộ kinh doanh chỉ được phép thuê tối đa 09 lao động [Document 1] (hoặc giới hạn ở con số 9 [Document 5], và có tài liệu đề cập là tối đa 10 lao động [Document 4]). Khi có từ 10 lao động trở lên, hộ kinh doanh phải chuyển đổi thành doanh nghiệp [Document 1, Document 5].\n* **Hiện tại (từ ngày 04/01/2021):** Hộ kinh doanh không còn bị giới hạn số lượng lao động và có thể thuê thêm lao động mà không cần chuyển đổi thành doanh nghiệp [Document 1].",
+        "retrieved_contexts": [
+          "### **5. Số lượng lao động của hộ kinh doanh**\nTừ ngày 04/01/2021, hộ kinh doanh không còn bị giới hạn số lượng lao động. Do đó, hộ kinh doanh có thể mở rộng quy mô kinh doanh, thuê thêm lao động mà không cần chuyển đổi thành doanh nghiệp. \nTrước đây, hộ kinh doanh chỉ được phép thuê tối đa 09 lao động, trường hợp có từ 10 lao động trở lên cần chuyển đổi thành doanh nghiệp để tiếp tục hoạt động kinh doanh.\n### **6. Sử dụng hóa đơn điện tử, mở sổ sách kế toán**",
+          "_Thứ năm,_ số lượng lao động của hộ kinh doanh đã không còn hạn chế. Trước đây, hộ kinh doanh chỉ được giới hạn ở con số 9, khi số lượng lao động từ 10 người trở lên, hộ kinh doanh phải chuyển đổi hình thức sang mô hình doanh nghiệp. Với việc bỏ quy định hộ kinh doanh có sử dụng từ mười lao động trở lên phải đăng ký thành lập doanh nghiệp đã góp phần tạo điều kiện cho hộ kinh doanh mở rộng quy mô sản xuất kinh doanh.",
+          "nghề yêu cầu tổ chức kinh doanh phải có tư cách pháp nhân và vốn điều lệ\nkhông được thấp hơn mức vốn pháp định (như tín dụng, ngân hàng, bảo hiểm,\nbất động sản,…). Như vậy so với các loại hình doanh nghiệp, hộ kinh doanh bị\nhạn chế quyền kinh doanh. Hạn chế này dẫn đến cản trở hộ kinh doanh tận dụng\nvà phát huy tối đa cơ hội kinh doanh; làm cho nguồn lực đầu tư dưới hình thức\nhộ không phát huy hết lợi ích có thể tạo ra cho nhà đầu tư, xã hội. Hệ thống",
+          "định, hộ kinh doanh chỉ được sử dụng tối đa 10 lao động. Giải pháp tạm thời,\nChị Lan buộc phải tách xưởng thành 3 hộ kinh doanh khác, đứng tên chồng và 2\nngười thân, để hợp thức hóa số lao động. Hệ quả là gây khó khăn trong quản lý\nđiều hành nội bộ vì phải chia nhỏ chi phí, doanh thu; gây trở ngại khi xin giấy\nchứng nhận an toàn lao động, phòng cháy chữa cháy, vì không thống nhất hồ sơ;\nvà cơ quan thuế gặp khó trong kiểm soát, thất thu ngân sách. Khắc phục tình",
+          "tranh với các đối thủ cùng ngành nghề67.\nThứ sáu, về quản lý lao động của hộ kinh doanh. Do hoạt động của HKD\nchủ yếu là nhỏ lẻ, mang tính chất hộ gia đình, đa số HKD không có nội quy, quy\nchế lao động, quy định mức lương cụ thể, rõ ràng; chủ yếu là sự thỏa thuận cơ\nbản về mức lương giữa người lao động và người sử dụng lao động, không có căn\ncứ trên cơ sở mức lương tối thiểu vùng. Điều này gây ảnh hưởng rất lớn đến\nquyền lợi của người lao động. Ngoài ra, hộ kinh doanh chưa đảm bảo được vấn"
+        ],
+        "sources": [
+          {
+            "id": "news/article_03.md::chunk-29",
+            "score": 0.03252247488101534,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "news/article_02.md::chunk-45",
+            "score": 0.03057889822595705,
+            "retrieval_method": "hybrid",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-117",
+            "score": 0.029437229437229435,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-633",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-545",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 19.85,
+        "refused": false
+      },
+      {
+        "id": "gd-05",
+        "question": "Một cá nhân có được đứng tên đăng ký nhiều hơn một hộ kinh doanh cùng lúc không?",
+        "answerable": true,
+        "answer": "Không, một cá nhân không thể đứng tên đăng ký nhiều hơn một hộ kinh doanh cùng lúc mà chỉ được đăng ký một hộ kinh doanh (hoặc duy nhất một hộ kinh doanh) trong phạm vi toàn quốc [Document 1 | Title: article_01 | Source: article_01.md; Document 5 | Title: article_03 | Source: article_03.md].",
+        "retrieved_contexts": [
+          "## **IV. Giải đáp các thắc mắc về hộ kinh doanh**\n### **1. Một cá nhân có thể đứng tên nhiều hơn một hộ kinh doanh hay không?**\nTheo quy định tại khoản 2 Điều 80 Nghị định 01/2021/NĐ-CP thì một cá nhân không thể đứng tên nhiều hơn một hộ kinh doanh, mà chỉ được đăng ký một hộ kinh doanh trong phạm vi toàn quốc.\n### **2. Hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm không?**",
+          "Một người chỉ được đăng ký duy nhất một hộ kinh doanh cá thể trên phạm vi toàn quốc. Ngoài ra, khi đã đăng ký hộ kinh doanh, cá nhân sẽ không thể đồng thời đăng ký là chủ doanh nghiệp tư nhân hoặc thành viên hợp danh công ty hợp doanh.\n### **2. Ngành nghề hộ kinh doanh được đăng ký thành lập**\n  * Hộ kinh doanh có thể đăng ký tham gia mọi ngành nghề mà pháp luật không cấm.",
+          "Đăng ký thuế\n► Hộ gia đình, cá nhân có hoạt động sản xuất, kinh doanh phải đăng ký\nthuế theo quy định của pháp luật quản lý thuế.\n► Hộ kinh doanh thực hiện đăng ký thuế theo cơ chế một cửa liên\nthông cùng với đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh\ntheo quy định của pháp luật có liên quan; không cần phải đến cùng lúc\n02 cơ quan đăng ký kinh doanh và cơ quan thuế để thực hiện.\n► Trường hợp cá nhân kinh doanh không thuộc diện đăng ký hộ kinh",
+          "+ Cá nhân, thành viên hộ gia đình đăng ký hộ kinh doanh không được đồng thời là chủ doanh nghiệp tư nhân, thành viên hợp danh của công ty hợp danh trừ trường hợp được sự nhất trí của các thành viên hợp danh còn lại.\nCơ sở pháp lý: Điều 79, khoản 2, 3 Điều 80 Nghị định 01/2021/NĐ-CP.\n## **II. Những lưu ý khi đặt tên hộ kinh doanh?**\nTheo quy định tại Điều 88 Nghị định 01/2021/NĐ-CP thì khi đặt tên hộ kinh doanh cần phải lưu ý những điều sau đây:",
+          "chiếm hữu, sử dụng, định đoạt tài sản chung của các thành viên gia đình được\nthực hiện theo phương thức thỏa thuận. Xét từ góc độ nhân thân của các thành\nviên, pháp luật tổ chức kinh doanh ở nhiều nước đã ghi nhận rất nhiều các “công\nty gia đình” hoạt động. Về mặt pháp lý, khái niệm hộ kinh doanh không thật rõ\nràng. Nếu nhiều người cùng hùn vốn mở một cơ sở kinh doanh, dù được gọi là\nmột hộ, do một chủ hộ đứng tên, song trên thực tế cơ sở kinh doanh này hoạt"
+        ],
+        "sources": [
+          {
+            "id": "news/article_01.md::chunk-26",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "article_01.md",
+            "title": "article_01"
+          },
+          {
+            "id": "news/article_03.md::chunk-24",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-19",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "news/article_01.md::chunk-15",
+            "score": 0.015873015873015872,
+            "retrieval_method": "hybrid",
+            "source": "article_01.md",
+            "title": "article_01"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-258",
+            "score": 0.015873015873015872,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 45.145,
+        "refused": false
+      },
+      {
+        "id": "gd-06",
+        "question": "Hộ kinh doanh có được hoạt động tại nhiều địa điểm không, và phải làm gì với các địa điểm ngoài trụ sở chính?",
+        "answerable": true,
+        "answer": "Hộ kinh doanh hoàn toàn có thể hoạt động tại nhiều địa điểm [Document 1, Document 2, Document 3, Document 4, Document 5]. \n\nĐối với các địa điểm ngoài trụ sở chính, hộ kinh doanh phải tuân thủ các quy định sau:\n* Phải chọn một địa điểm để đăng ký trụ sở hộ kinh doanh (hoặc trụ sở chính) [Document 1, Document 2, Document 3, Document 5].\n* Phải thông báo cho Cơ quan quản lý thuế, cơ quan quản lý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm kinh doanh còn lại [Document 1, Document 2, Document 3, Document 5].",
+        "retrieved_contexts": [
+          "_Thứ sáu,_ hộ kinh doanh có thể kinh doanh tại nhiều địa điểm. Cụ thể, khoản 2 Điều 86 Nghị định 01/2021/NĐ-CP ngày 04/01/2021 của Chính phủ quy định:_“Một hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký trụ sở hộ kinh doanh và phải thông báo cho Cơ quan quản lý thuế, cơ quan quản lý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm kinh doanh còn lại”_",
+          "Hộ kinh doanh có thể hoạt động tại nhiều địa điểm, nhưng phải lựa chọn một địa điểm cố định để đăng ký làm trụ sở chính và phải thông báo với cơ quan thuế quản lý, cơ quan quản lý thị trường về các địa điểm hoạt động kinh doanh còn lại. Tuy nhiên, một địa điểm chỉ được đăng ký duy nhất một hộ kinh doanh. \n## **III. Đặc điểm pháp lý của hộ kinh doanh**\n### **1. Đối tượng thành lập hộ kinh doanh**",
+          "Căn cứ theo quy định tại khoản 2 Điều 86 Nghị định 01/2021/NĐ-CP thì một hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký trụ sở hộ kinh doanh và phải thông báo cho Cơ quan quản lý thuế, cơ quan quản lý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm kinh doanh còn lại.\nNhư vậy, hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký trụ sở hộ kinh doanh.",
+          "thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để\nđăng ký trụ sở hộ kinh doanh và phải thông báo cho Cơ quan quản lý thuế, cơ\nquan quản lý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm\nkinh doanh còn lại50.\nTrước đây, Nghị định số 78/2015/NĐ-CP không cho phép hộ kinh doanh\nthực hiện quyền kinh doanh tại nhiều địa điểm, duy chỉ có hộ kinh doanh buôn\nchuyến, kinh doanh lưu động được phép kinh doanh ngoài địa điểm đã đăng ký",
+          "- Địa điểm kinh doanh của hộ kinh doanh là nơi hộ kinh doanh thực hiện hoạt động kinh doanh. Một hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký trụ sở hộ kinh doanh và phải thông báo cho Cơ quan quản lý thuế, cơ quan quản lý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm kinh doanh còn lại."
+        ],
+        "sources": [
+          {
+            "id": "news/article_02.md::chunk-46",
+            "score": 0.03177805800756621,
+            "retrieval_method": "hybrid",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "news/article_03.md::chunk-22",
+            "score": 0.031754032258064516,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "news/article_01.md::chunk-27",
+            "score": 0.031746031746031744,
+            "retrieval_method": "hybrid",
+            "source": "article_01.md",
+            "title": "article_01"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-425",
+            "score": 0.031099324975891997,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "news/article_01.md::chunk-21",
+            "score": 0.03055037313432836,
+            "retrieval_method": "hybrid",
+            "source": "article_01.md",
+            "title": "article_01"
+          }
+        ],
+        "latency_s": 35.255,
+        "refused": false
+      },
+      {
+        "id": "gd-07",
+        "question": "Cơ quan nào có thẩm quyền tiếp nhận hồ sơ đăng ký hộ kinh doanh, theo quy định cũ (Nghị định 01/2021) và theo quy định mới hơn?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp:\n\n* **Theo quy định cũ (trước ngày 01/7/2023 dưới sự chi phối của Nghị định 01/2021/NĐ-CP):** Việc tổ chức, thực hiện cấp đăng ký hộ kinh doanh được tiến hành tại hơn 700 Phòng Tài chính – Kế hoạch cấp huyện trên toàn quốc (được gọi chung là cơ quan đăng ký kinh doanh) [Document 4].\n* **Theo quy định mới hơn (Nghị định số 168/2025/NĐ-CP):** Cơ quan đăng ký kinh doanh cấp xã là đầu mối tiếp nhận và xử lý hồ sơ đăng ký hộ kinh doanh [Document 1].",
+        "retrieved_contexts": [
+          ". Theo Nghị định số 168/2025/NĐ-CP, cơ quan đăng ký kinh doanh cấp xã là đầu mối tiếp nhận và xử lý hồ sơ đăng ký hộ kinh doanh; Giấy chứng nhận đăng ký hộ kinh doanh đồng thời là Giấy chứng nhận đăng ký thuế; hộ kinh doanh được quyền hoạt động kể từ thời điểm được cấp giấy chứng nhận nếu đáp ứng đầy đủ các điều kiện luật định",
+          "(Điều 72 Nghị định 78/2015/NĐ-CP). Kể từ ngày 04/01/2021, khi Nghị định\n01/2021/NĐ-CP về đăng ký doanh nghiệp có hiệu lực, hộ kinh doanh có thể hoạt\nđộng kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký\ntrụ sở hộ kinh doanh và phải thông báo cho cơ quan quản lý thuế, cơ quan quản\nlý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm kinh\ndoanh còn lại, đây là nội dung mới, tiến bộ của pháp luật doanh nghiệp.",
+          "doanh được thực hiện trên cơ sở các thông tin giả mạo và cấp Giấy chứng nhận\nđăng ký hộ kinh doanh trên cơ sở hồ sơ hợp lệ gần nhất trước đó, đồng thời\nthông báo cho cơ quan có thẩm quyền để xem xét, xử lý theo quy định của pháp\nluật. Cơ quan đăng ký kinh doanh cấp huyện yêu cầu hộ kinh doanh làm lại hồ\nsơ để được xem xét cấp Giấy chứng nhận đăng ký hộ kinh doanh. Hộ kinh\ndoanh có thể gộp các nội dung thay đổi hợp pháp của các lần đăng ký thay đổi",
+          "04/01/2021. Các biểu mẫu được sử dụng trong đăng ký hộ kinh doanh được quy\nđịnh cụ thể tại Thông tư số 01/2021/TT-BKHĐT ngày 16/3/2021 của Bộ Kế\nhoạch và Đầu tư hướng dẫn về đăng ký doanh nghiệp, có hiệu lực thi hành từ\nngày 01/5/2021.\nCăn cứ các quy định pháp lý trên, việc tổ chức, thực hiện cấp đăng ký hộ\nkinh doanh trước ngày 01/7/2023 được tiến hành tại hơn 700 Phòng Tài chính –\nKế hoạch cấp huyện trên toàn quốc (gọi chung là cơ quan đăng ký kinh doanh",
+          "giải trí\nDịch vụ khác 4,7 4,7 4,8 5,0 4,9 5,0 5,1 5,2 5,1 5,5 5,7\nNguồn: Tổng hợp từ Niên giám Thống kê hằng năm của Tổng cục Thống\nkê\nTheo Cục Quản lý đăng ký kinh doanh, Bộ Kế hoạch và Đầu tư, khung\npháp lý hiện hành về hộ kinh doanh và đăng ký hộ kinh doanh được quy định cụ\nthể tại Chương VIII Nghị định số 01/2021/NĐ-CP, ngày 04/01/2021 của Chính\nphủ về đăng ký doanh nghiệp. Nghị định này có hiệu lực thi hành từ ngày"
+        ],
+        "sources": [
+          {
+            "id": "news/article_04.md::chunk-45",
+            "score": 0.030621785881252923,
+            "retrieval_method": "hybrid",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-425",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-556",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-591",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-590",
+            "score": 0.015873015873015872,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 31.666,
+        "refused": false
+      },
+      {
+        "id": "gd-08",
+        "question": "Giấy chứng nhận đăng ký hộ kinh doanh có đồng thời là giấy chứng nhận đăng ký thuế không?",
+        "answerable": true,
+        "answer": "Có, Giấy chứng nhận đăng ký hộ kinh doanh đồng thời là Giấy chứng nhận đăng ký thuế [Document 1, Document 2, Document 5].",
+        "retrieved_contexts": [
+          ". Theo đó, Giấy chứng nhận đăng ký hộ kinh doanh đồng thời là Giấy chứng nhận đăng ký thuế; hộ kinh doanh có quyền tiến hành hoạt động kinh doanh kể từ ngày được cấp giấy chứng nhận, trừ trường hợp ngành, nghề đầu tư kinh doanh có điều kiện; chủ hộ kinh doanh là người đại diện cho hộ kinh doanh trong các quan hệ nghĩa vụ tài chính, tố tụng và thi hành quyết định xử phạt vi phạm hành chính",
+          ". Theo Nghị định số 168/2025/NĐ-CP, cơ quan đăng ký kinh doanh cấp xã là đầu mối tiếp nhận và xử lý hồ sơ đăng ký hộ kinh doanh; Giấy chứng nhận đăng ký hộ kinh doanh đồng thời là Giấy chứng nhận đăng ký thuế; hộ kinh doanh được quyền hoạt động kể từ thời điểm được cấp giấy chứng nhận nếu đáp ứng đầy đủ các điều kiện luật định",
+          "Giấy chứng nhận đăng ký hộ kinh doanh là văn bản bằng bản giấy hoặc\nbản điện tử mà cơ quan đăng ký kinh doanh cấp huyện cấp cho hộ kinh doanh\nghi lại những thông tin về đăng ký kinh doanh và đăng ký thuế do hộ kinh doanh\nđăng ký. Giấy chứng nhận đăng ký hộ kinh doanh đồng thời là Giấy chứng nhận\nđăng ký thuế của hộ kinh doanh. Tuy nhiên, để thuận tiện cho việc quản lý đối\nvới hộ kinh doanh. Hệ thống thông tin về đăng ký hộ kinh doanh là một cấu",
+          "Giấy chứng nhận đăng ký hộ kinh doanh là văn bản bằng bản giấy hoặc\nbản điện tử mà cơ quan đăng ký kinh doanh cấp huyện cấp cho hộ kinh doanh\nghi lại những thông tin về đăng ký kinh doanh và đăng ký thuế do hộ kinh doanh\nđăng ký. Giấy chứng nhận đăng ký hộ kinh doanh đồng thời là Giấy chứng nhận\nđăng ký thuế của hộ kinh doanh. Tuy nhiên, để thuận tiện cho việc quản lý đối\nvới hộ kinh doanh. Hệ thống thông tin về đăng ký hộ kinh doanh là một cấu",
+          "Đăng ký thuế\n► Hộ gia đình, cá nhân có hoạt động sản xuất, kinh doanh phải đăng ký\nthuế theo quy định của pháp luật quản lý thuế.\n► Hộ kinh doanh thực hiện đăng ký thuế theo cơ chế một cửa liên\nthông cùng với đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh\ntheo quy định của pháp luật có liên quan; không cần phải đến cùng lúc\n02 cơ quan đăng ký kinh doanh và cơ quan thuế để thực hiện.\n► Trường hợp cá nhân kinh doanh không thuộc diện đăng ký hộ kinh"
+        ],
+        "sources": [
+          {
+            "id": "news/article_04.md::chunk-22",
+            "score": 0.032266458495966696,
+            "retrieval_method": "hybrid",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "news/article_04.md::chunk-45",
+            "score": 0.032266458495966696,
+            "retrieval_method": "hybrid",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-431",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-432",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-19",
+            "score": 0.015625,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          }
+        ],
+        "latency_s": 35.909,
+        "refused": false
+      },
+      {
+        "id": "gd-09",
+        "question": "Những đối tượng nào không có quyền thành lập hộ kinh doanh theo Nghị định 01/2021/NĐ-CP?",
+        "answerable": true,
+        "answer": "Theo Nghị định 01/2021/NĐ-CP, nhóm đối tượng không có quyền thành lập hộ kinh doanh bao gồm [Document 3]:\n* Người chưa thành niên, người bị hạn chế năng lực hành vi dân sự [Document 3].\n* Người bị mất năng lực hành vi dân sự [Document 3].\n* Người có khó khăn trong nhận thức, làm chủ hành vi [Document 3].\n* Người đang bị truy cứu trách nhiệm hình sự, bị tạm giam, đang chấp hành hình phạt tù, đang chấp hành biện pháp xử lý hành chính tại cơ sở cai nghiện bắt buộc, cơ sở giáo dục bắt buộc hoặc đang bị Tòa án cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định [Document 3].\n* Ngoài ra, người nước ngoài cũng không được phép thành lập hộ kinh doanh [Document 4, Document 5].",
+        "retrieved_contexts": [
+          "Về đối tượng thành lập hộ kinh doanh, hiện nay, theo quy định tại Khoản\n1, Điều 79, Nghị định số 01/2021/NĐ-CP, đối tượng thành lập hộ kinh doanh\nbao gồm 2 đối tượng là cá nhân và các thành viên hộ gia đình. Tuy nhiên, pháp\nluật hiện hành chưa có quy định chung về khái niệm “hộ gia đình”, gây ra sự\nlúng túng, khó khăn cho người thành lập hộ kinh doanh và cơ quan quản lý nhà\nnước trong việc xác định đối tượng đăng ký tham gia thành lập hộ kinh doanh.",
+          "### **1. Đối tượng thành lập hộ kinh doanh**\nCá nhân hoặc các thành viên hộ gia đình đăng ký thành lập hộ kinh doanh cần đáp ứng các điều kiện tại Điều 79 Nghị định 01/2021 NĐ-CP, cụ thể như sau:\n  * Đối tượng thành lập hộ kinh doanh phải là công dân Việt Nam, từ đủ 18 tuổi trở lên, có đầy đủ năng lực hành vi dân sự. \n  * Người nước ngoài không được phép thành lập hộ kinh doanh.",
+          "_Thứ ba,_ đối tượng thành có quyền thành lập hộ kinh doanh rộng hơn đối tượng có quyền thành lập doanh nghiệp dao gồm các cá nhân, thành viên hộ gia đình là công dân Việt Nam có năng lực hành vi dân sự đầy đủ theo quy định của Bộ luật Dân sự có quyền thành lập hộ kinh doanh trừ trường hợp quy định tại khoản 1 điều . điều 80 Nghị định 01/2021/NĐ-CP ngày 04/01/2021 của Chính phủ.",
+          "Hộ kinh doanh không có tư cách pháp nhân.\n**3. Ai được quyền thành lập hộ kinh doanh cá thể?**\nCá nhân hoặc các thành viên hộ gia đình đăng ký thành lập hộ kinh doanh cần đáp ứng các điều kiện tại Điều 79 Nghị định 01/2021 NĐ-CP, cụ thể như sau:\n  * Đối tượng thành lập hộ kinh doanh phải là công dân Việt Nam, từ đủ 18 tuổi trở lên, có đầy đủ năng lực hành vi dân sự. \n  * Người nước ngoài không được phép thành lập hộ kinh doanh.",
+          ". Điều 80 Nghị định 01/2021/NĐ-CP ngày 04/01/2021 của Chính phủ quy định nhóm đối tượng sau không có quyền thành lập hộ kinh doanh: Người chưa thành niên, người bị hạn chế năng lực hành vi dân sự; người bị mất năng lực hành vi dân sự; người có khó khăn trong nhận thức, làm chủ hành vi; Người đang bị truy cứu trách nhiệm hình sự, bị tạm giam, đang chấp hành hình phạt tù, đang chấp hành biện pháp xử lý hành chính tại cơ sở cai nghiện bắt buộc, cơ sở giáo dục bắt buộc hoặc đang bị Tòa án cấm đảm"
+        ],
+        "sources": [
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-399",
+            "score": 0.03128054740957967,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "news/article_03.md::chunk-23",
+            "score": 0.031009615384615385,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "news/article_02.md::chunk-36",
+            "score": 0.0304147465437788,
+            "retrieval_method": "hybrid",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "news/article_03.md::chunk-37",
+            "score": 0.029631255487269532,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "news/article_02.md::chunk-38",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "article_02.md",
+            "title": "article_02"
+          }
+        ],
+        "latency_s": 29.856,
+        "refused": false
+      },
+      {
+        "id": "gd-10",
+        "question": "Khi hộ kinh doanh chấm dứt hoạt động, thủ tục có giống thủ tục giải thể hoặc phá sản doanh nghiệp không?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp, thủ tục chấm dứt hoạt động của hộ kinh doanh **không** áp dụng hình thức giải thể hay phá sản [Document 1]. Cụ thể:\n\n* Hộ kinh doanh không áp dụng hình thức giải thể hay phá sản, mà khi chấm dứt hoạt động sẽ nộp lại bản gốc Giấy chứng nhận đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp huyện nơi đã đăng ký [Document 1].\n* Pháp luật hiện hành không có quy định về phá sản đối với hộ kinh doanh [Document 3].",
+        "retrieved_contexts": [
+          "|  **Thủ tục chấm dứt hoạt động**  |  Thực hiện theo quy định của Luật Doanh nghiệp về giải thể doanh nghiệp hoặc theo quy định của Luật Phá sản về thủ tục phá sản  |  Không áp dụng hình thức giải thể hay phá sản. Hộ kinh doanh chấm dứt hoạt động nộp lại bản gốc Giấy chứng nhận đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp huyện nơi đã đăng ký  |",
+          "Việc chuyển đổi thành doanh nghiệp đặt ra yêu cầu đối với hộ kinh doanh là\nphải giải quyết các khoản thuế theo quy định pháp luật, xử lý đúng các nghĩa vụ,\nkhoản nợ hiện tại và không được làm tổn hại đến quyền và lợi ích hợp pháp của\nngười có liên quan (bao gồm chủ nợ, khách hàng, người lao động).\nThứ hai, hộ kinh doanh tự nguyện chấm dứt hoạt động. Việc chấm dứt\nhoạt động của hộ kinh doanh cũng rất đơn giản về mặt thủ tục như: Khi chấm",
+          "của chủ hộ kinh doanh đòi hỏi hộ kinh doanh có trách nhiệm thanh toán đầy đủ\ncác khoản nợ, gồm cả nợ thuế và nghĩa vụ tài chính chưa thực hiện trước khi\nnộp hồ sơ chấm dứt hoạt động hộ kinh doanh, trừ trường hợp hộ kinh doanh và\nchủ nợ có thỏa thuận khác. Việc hộ kinh doanh tự nguyện chấm dứt hoạt động\ngiống như hình thức giải thể của doanh nghiệp nghiệp khác\nThứ ba, chấm dứt hoạt động hộ kinh doanh bởi quyết định của cơ quan",
+          "pháp nhân nhưng sẽ tuân thủ theo quy trình của Luật Phá sản tương tự như các loại hình doanh\nnghiệp khác. Điều 5, Luật Phá sản 2014 xác định rõ quyền, nghĩa vụ nộp đơn yêu cầu thủ tục phá\nsản của doanh nghiệp tư nhân. Tuy nhiên, hộ kinh doanh cũng có bản chất là cá nhân kinh doanh\nlại không thuộc phạm vi điều chỉnh của Luật Phá sản nên tuân thủ các quy định của Bộ Luật Dân\nsự khi làm các thủ tục phá sản.\nĐiều này cho thấy cách ứng xử không rõ ràng và nhất quán của các quy định pháp luật đối với",
+          "chủ hộ mới. Từ đó, xác định các trường hợp hộ kinh doanh ngừng hoạt động\nhoặc chấm dứt hoạt động.\n4.2.5. Hoàn thiện quy định pháp luật về chuyển đổi hộ kinh doanh\nPháp luật hiện hành đã quy định khá chi tiết về việc chấm dứt hoạt động\nvà chuyển đổi hộ kinh doanh thành doanh nghiệp. Tuy nhiên, chúng ta thấy rằng\npháp luật không có quy định về phá sản đối với hộ kinh doanh. Hộ kinh doanh\nkhông được áp dụng quy định về phá sản nhằm hạn chế rủi ro cho người kinh"
+        ],
+        "sources": [
+          {
+            "id": "news/article_02.md::chunk-65",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "article_02.md",
+            "title": "article_02"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-369",
+            "score": 0.031054405392392875,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-372",
+            "score": 0.030798389007344232,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-173",
+            "score": 0.03076923076923077,
+            "retrieval_method": "hybrid",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-779",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 17.433,
+        "refused": false
+      },
+      {
+        "id": "gd-11",
+        "question": "Theo sổ tay hướng dẫn thuế, hộ kinh doanh có doanh thu trên bao nhiêu mỗi năm thì phải nộp thuế GTGT và TNCN tính theo tỷ lệ % trên doanh thu?",
+        "answerable": true,
+        "answer": "Dựa trên tài liệu, đối với hộ kinh doanh có doanh thu trên 500 triệu đồng/năm, thuế GTGT được tính theo tỷ lệ % trên doanh thu [Document 4].",
+        "retrieved_contexts": [
+          "được cơ quan thuế cấp mã định danh\nkhoản phải nộp thì hộ kinh doanh thực\nhiện nộp theo mã định danh khoản\nphải nộp\n2.3. Hộ kinh doanh có doanh thu năm trên 3 tỷ đồng đến 50 tỷ\nđồng hoặc trên 500 triệu đồng đến 3 tỷ đồng lựa chọn nộp thuế\nTNCN trên thu nhập tính thuế\nSTT NỘI DUNG\nI Bước 1: Xác định phương pháp tính thuế\n- GTGT: tỷ lệ % trên doanh thu.\n- TNCN:\n+) Doanh thu trên 500 triệu đồng đến 3\nPhương pháp tính tỷ đồng: thu nhập tính thuế nhân (x) với\n1\nthuế GTGT, TNCN thuế suất 15%",
+          "Thuế GTGT phải nộp = Doanh thu × Tỷ lệ % thuế GTGT\n► Thuế TNCN của hộ kinh doanh, cá nhân kinh doanh được xác định\ntheo một trong hai phương pháp sau:\n(1) Phương pháp nộp thuế trên doanh thu tính thuế\nÁp dụng đối với hộ kinh doanh, cá nhân kinh doanh có doanh thu\nnăm trên 500 triệu đồng đến 03 tỷ đồng lựa chọn phương pháp này\nThuế TNCN phải nộp\n= Doanh thu tính thuế (doanh thu - 500 triệu đồng) × Thuế suất TNCN\n(2) Phương pháp nộp thuế trên thu nhập tính thuế",
+          "không phân biệt đã thu được tiền hay chưa thu được tiền.\n(2) Tỷ lệ thuế tính trên doanh thu\n- Tỷ lệ thuế tính trên doanh thu gồm tỷ lệ thuế GTGT và tỷ lệ thuế TNCN\náp dụng chi tiết đối với từng lĩnh vực, ngành nghề theo hướng dẫn tại Phụ lục I\nban hành kèm theo Thông tư 40/2021/TT-BTC.\n- Trường hợp hộ kinh doanh hoạt động nhiều lĩnh vực, ngành nghề thì hộ\nkinh doanh, cá nhân kinh doanh thực hiện khai và tính thuế theo tỷ lệ thuế tính",
+          "Thuế suất đối với các hoạt động kinh doanh\ncủa hộ kinh doanh?\n► Tỷ lệ tính thuế GTGT: Đối với hộ kinh doanh có doanh thu trên 500\ntriệu đồng/năm, thuế GTGT được tính theo tỷ lệ % trên doanh thu. Căn\ncứ vào ngành nghề kinh doanh tỷ lệ % tính thuế GTGT được xác định\nnhư sau:\nNhóm ngành nghề kinh doanh Tỷ lệ % tính thuế GTGT\nPhân phối, cung cấp hàng hóa 1%\nDịch vụ, xây dựng không bao thầu\n5%\nnguyên vật liệu\nSản xuất, vận tải, dịch vụ có gắn\nvới hàng hóa, xây dựng có bao thầu 3%\nnguyên vật liệu",
+          "2.4. Hộ kinh doanh có doanh thu năm trên 50 tỷ đồng\nSTT NỘI DUNG\nI Bước 1: Xác định phương pháp tính thuế\n- GTGT: tỷ lệ % trên doanh thu.\nPhương pháp tính\n1 - TNCN: thu nhập tính thuế nhân (x) với\nthuế GTGT, TNCN\nthuế suất 20%\nThay đổi và ổn định Thực hiện ổn định phương pháp tính\n2 phương pháp tính thuế trong 02 năm liên tục kể từ năm\nthuế đầu tiên áp dụng.\nBước 2: Thực hiện quy định về số sách kế toán, hóa đơn,\nII\nchứng từ theo quy định\n- Sổ doanh thu bán hàng hóa, dịch vụ\n(Mẫu số S2b-HKD)"
+        ],
+        "sources": [
+          {
+            "id": "legal/so_tay_thue.md::chunk-85",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-34",
+            "score": 0.03200204813108039,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-500",
+            "score": 0.030798389007344232,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-49",
+            "score": 0.03055037313432836,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-97",
+            "score": 0.030090497737556562,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          }
+        ],
+        "latency_s": 14.705,
+        "refused": false
+      },
+      {
+        "id": "gd-12",
+        "question": "Tỷ lệ % tính thuế GTGT đối với hộ kinh doanh hoạt động phân phối, cung cấp hàng hóa là bao nhiêu?",
+        "answerable": true,
+        "answer": "Tỷ lệ % tính thuế GTGT đối với hộ kinh doanh hoạt động phân phối, cung cấp hàng hóa là 1% [Document 1].",
+        "retrieved_contexts": [
+          "Thuế suất đối với các hoạt động kinh doanh\ncủa hộ kinh doanh?\n► Tỷ lệ tính thuế GTGT: Đối với hộ kinh doanh có doanh thu trên 500\ntriệu đồng/năm, thuế GTGT được tính theo tỷ lệ % trên doanh thu. Căn\ncứ vào ngành nghề kinh doanh tỷ lệ % tính thuế GTGT được xác định\nnhư sau:\nNhóm ngành nghề kinh doanh Tỷ lệ % tính thuế GTGT\nPhân phối, cung cấp hàng hóa 1%\nDịch vụ, xây dựng không bao thầu\n5%\nnguyên vật liệu\nSản xuất, vận tải, dịch vụ có gắn\nvới hàng hóa, xây dựng có bao thầu 3%\nnguyên vật liệu",
+          "1. Thời gian được giảm thuế\nChính sách giảm thuế GTGT được áp dụng từ ngày 01/7/2025 đến hết\nngày 31/12/2026 đối với hàng hóa, dịch vụ\n2. Mức giảm thuế hộ kinh doanh được hưởng\nHộ kinh doanh, cá nhân kinh doanh được giảm 20% mức tỷ lệ % để\ntính thuế GTGT.\n3. Hàng hóa, dịch vụ được áp dụng giảm thuế\nChính sách giảm thuế áp dụng đối với hầu hết hàng hóa, dịch vụ, ngoại\ntrừ một số nhóm ngành, lĩnh vực sau:\n- Viễn thông, Tài chính, ngân hàng, chứng khoán, bảo hiểm, kinh doanh",
+          "Thuế suất Thuế\nNhóm ngành nghề kinh doanh\nTNCN (%)\nPhân phối, cung cấp hàng hóa 0,5%\nDịch vụ, xây dựng không bao thầu nguyên\n2%\nvật liệu\nHoạt động cho thuê tài sản, đại lý bảo hiểm,\n5%\nđại lý xổ số, đại lý bán hàng đa cấp\nSản xuất, vận tải, dịch vụ có gắn với hàng\n1,5%\nhóa, xây dựng có bao thầu nguyên vật liệu\nHoạt động cung cấp sản phẩm và dịch vụ\nnội dung thông tin số về giải trí, trò chơi 5%\nđiện tử, phim số, ảnh số, nhạc số, quảng cáo số\nHoạt động kinh doanh khác 1%\nKÊ KHAI THUẾ",
+          "2.4. Hộ kinh doanh có doanh thu năm trên 50 tỷ đồng\nSTT NỘI DUNG\nI Bước 1: Xác định phương pháp tính thuế\n- GTGT: tỷ lệ % trên doanh thu.\nPhương pháp tính\n1 - TNCN: thu nhập tính thuế nhân (x) với\nthuế GTGT, TNCN\nthuế suất 20%\nThay đổi và ổn định Thực hiện ổn định phương pháp tính\n2 phương pháp tính thuế trong 02 năm liên tục kể từ năm\nthuế đầu tiên áp dụng.\nBước 2: Thực hiện quy định về số sách kế toán, hóa đơn,\nII\nchứng từ theo quy định\n- Sổ doanh thu bán hàng hóa, dịch vụ\n(Mẫu số S2b-HKD)",
+          "Thuế GTGT phải nộp = Doanh thu × Tỷ lệ % thuế GTGT\n► Thuế TNCN của hộ kinh doanh, cá nhân kinh doanh được xác định\ntheo một trong hai phương pháp sau:\n(1) Phương pháp nộp thuế trên doanh thu tính thuế\nÁp dụng đối với hộ kinh doanh, cá nhân kinh doanh có doanh thu\nnăm trên 500 triệu đồng đến 03 tỷ đồng lựa chọn phương pháp này\nThuế TNCN phải nộp\n= Doanh thu tính thuế (doanh thu - 500 triệu đồng) × Thuế suất TNCN\n(2) Phương pháp nộp thuế trên thu nhập tính thuế"
+        ],
+        "sources": [
+          {
+            "id": "legal/so_tay_thue.md::chunk-49",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-160",
+            "score": 0.0315136476426799,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-51",
+            "score": 0.03149801587301587,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-97",
+            "score": 0.029857397504456328,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-34",
+            "score": 0.02857142857142857,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          }
+        ],
+        "latency_s": 15.533,
+        "refused": false
+      },
+      {
+        "id": "gd-13",
+        "question": "Thuế suất TNCN áp dụng cho hộ kinh doanh có doanh thu năm từ trên 500 triệu đến 3 tỷ đồng (nộp thuế trên doanh thu toàn phần) là bao nhiêu?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp, không có thông tin nào đề cập đến \"thuế suất TNCN áp dụng cho hộ kinh doanh có doanh thu năm từ trên 500 triệu đến 3 tỷ đồng (nộp thuế trên doanh thu toàn phần)\". \n\nTheo Document 1, mức thuế suất TNCN đối với doanh thu trên 500 triệu đến 03 tỷ đồng là 15% [Document 1], nhưng đồng thời tài liệu cũng nêu rõ đối với hộ kinh doanh có doanh thu năm trên 500 triệu đồng đến 03 tỷ đồng lựa chọn nộp thuế TNCN trên doanh thu thì thuế suất được xác định theo ngành nghề kinh doanh [Document 1]. Trong khi đó, theo Document 2 và Document 3, công thức tính thuế TNCN theo phương pháp nộp thuế trên doanh thu tính thuế đối với nhóm doanh thu này là dựa trên \"(doanh thu - 500 triệu đồng)\" [Document 2, Document 3]. \n\nDo thiếu evidence chính xác cho khái niệm \"nộp thuế trên doanh thu toàn phần\" trong context, tôi từ chối xác minh câu hỏi này.",
+        "retrieved_contexts": [
+          "nguyên vật liệu\nHoạt động kinh doanh khác 2%\n► Thuế suất thuế TNCN:\nMức doanh thu năm Thuế suất TNCN\nDoanh thu trên 500 triệu đến 03 tỷ đồng 15%\nDoanh thu trên 03 tỷ đến 50 tỷ đồng 17%\nDoanh thu trên 50 tỷ đồng 20%\nRiêng hộ kinh doanh có doanh thu năm trên 500 triệu đồng đến 03 tỷ đồng\nlựa chọn nộp thuế TNCN trên doanh thu thì căn cứ ngành nghề kinh doanh\nthuế suất thuế TNCN được xác định như sau:\n18",
+          "được cơ quan thuế cấp mã định danh\nkhoản phải nộp thì hộ kinh doanh thực\nhiện nộp theo mã định danh khoản\nphải nộp\n2.3. Hộ kinh doanh có doanh thu năm trên 3 tỷ đồng đến 50 tỷ\nđồng hoặc trên 500 triệu đồng đến 3 tỷ đồng lựa chọn nộp thuế\nTNCN trên thu nhập tính thuế\nSTT NỘI DUNG\nI Bước 1: Xác định phương pháp tính thuế\n- GTGT: tỷ lệ % trên doanh thu.\n- TNCN:\n+) Doanh thu trên 500 triệu đồng đến 3\nPhương pháp tính tỷ đồng: thu nhập tính thuế nhân (x) với\n1\nthuế GTGT, TNCN thuế suất 15%",
+          "Thuế GTGT phải nộp = Doanh thu × Tỷ lệ % thuế GTGT\n► Thuế TNCN của hộ kinh doanh, cá nhân kinh doanh được xác định\ntheo một trong hai phương pháp sau:\n(1) Phương pháp nộp thuế trên doanh thu tính thuế\nÁp dụng đối với hộ kinh doanh, cá nhân kinh doanh có doanh thu\nnăm trên 500 triệu đồng đến 03 tỷ đồng lựa chọn phương pháp này\nThuế TNCN phải nộp\n= Doanh thu tính thuế (doanh thu - 500 triệu đồng) × Thuế suất TNCN\n(2) Phương pháp nộp thuế trên thu nhập tính thuế",
+          "|     | năm trên 3 tỷ đồng hoặc trên  |                 | lựa chọn nộp thuế TNCN trên    |                  |        |\n500 triệu đồng đến 3 tỷ đồng  thu nhập tính thuế thì hộ kinh\n|     | lựa chọn nộp thuế TNCN trên  |     | doanh, cá nhân kinh doanh  |     |     |\n| --- | ---------------------------- | --- | -------------------------- | --- | --- |\nthu nhập tính thuế thì hộ kinh  thực  hiện  quyết  toán  thuế",
+          "- GTGT: tỷ lệ % trên doanh thu.\nPhương pháp tính\n1 - TNCN: thuế suất nhân (x) (doanh thu\nthuế GTGT, TNCN\nnăm – 500 triệu đồng)\n23"
+        ],
+        "sources": [
+          {
+            "id": "legal/so_tay_thue.md::chunk-50",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-85",
+            "score": 0.03200204813108039,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-34",
+            "score": 0.0315136476426799,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-63",
+            "score": 0.03125,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-73",
+            "score": 0.030090497737556562,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          }
+        ],
+        "latency_s": 16.662,
+        "refused": false
+      },
+      {
+        "id": "gd-14",
+        "question": "Mã số thuế của hộ kinh doanh được xác định như thế nào?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp, mã số thuế của hộ kinh doanh được xác định như sau:\n\n* Mã số thuế cấp cho hộ kinh doanh chính là mã số thuế của các cá nhân, đại diện hộ kinh doanh [Document 1].\n* Mã số hộ kinh doanh đồng thời là mã số thuế của hộ kinh doanh, là dãy số được tạo tự động bởi Hệ thống ứng dụng đăng ký thuế truyền sang Hệ thống thông tin về đăng ký hộ kinh doanh [Document 4].",
+        "retrieved_contexts": [
+          "được hưởng thuế khoán. Cũng theo cách tiếp cận của Bộ Luật Dân sự năm 2015 đối với hộ kinh\ndoanh, Luật Quản lý thuế năm 2019 đã giải quyết vấn đề này một cách tương đối rõ ràng, triệt\nđể bằng cách quy định mã số thuế cấp cho hộ kinh doanh chính là mã số thuế của các cá nhân,\nđại diện hộ kinh doanh. Như vậy, Luật Quản lý thuế đã quy tư cách chủ thể của hộ kinh doanh là\ncá nhân kinh doanh. Cách tiếp cận này cần được tiếp tục kiên trì duy trì đối với hộ kinh doanh",
+          "Sau khi hộ kinh doanh được cấp Giấy chứng nhận thay đổi theo mã số\nthuế của chủ hộ mới thì cơ quan thuế tự động cập nhật trạng thái mã số\nthuế của hộ kinh doanh theo mã số thuế của chủ hộ cũ (về trạng thái 03 –\nNNT ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực\nmã số thuế). Chủ hộ kinh doanh cũ sẽ phải thực hiện các thủ tục về thuế\nđể hoàn thành nghĩa vụ thuế của hộ kinh doanh theo mã số thuế của chủ\nhộ cũ với cơ quan thuế quản lý trực tiếp theo quy định tại Điều 15 Thông",
+          "➣ **Xem chi tiết: ****[Đối tượng nào được thành lập hộ kinh doanh](https://luattinminh.vn/ho-kinh-doanh-la-gi#DOITUONG).**\n**4. Số lượng lao động của hộ kinh doanh cá thể được quy định như thế nào?**\nTừ ngày 04/01/2021, hộ kinh doanh không còn bị giới hạn số lượng lao động. Do đó, hộ kinh doanh có thể mở rộng quy mô kinh doanh, thuê thêm lao động mà không cần chuyển đổi thành doanh nghiệp. \n—",
+          "- Bổ sung khái niệm về mã số hộ kinh doanh. Mã số này là dãy số được\ntạo tự động bởi Hệ thống ứng dụng đăng ký thuế truyền sang Hệ thống thông tin\nvề đăng ký hộ kinh doanh, đồng thời là mã số thuế của hộ kinh doanh. Mã số hộ\nkinh doanh được sử dụng để thực hiện liên thông thủ tục đăng ký hộ kinh doanh,\nphục vụ công tác quản lý nhà nước và trao đổi thông tin về hộ kinh doanh.\n3.1.2. Cơ cấu tổ chức của hộ kinh doanh\nVề cơ cấu tổ chức, theo quy định của Nghị định số 01/2021/NĐ-CP thì hộ",
+          "II. Nghĩa vụ thuế - Hiểu đúng, làm đủ .......................................12\n1. Hộ kinh doanh phải nộp thuế khi nào, đối với hoạt động gì? .........12\n2. Hộ kinh doanh cần nộp những loại thuế nào? .................................12\n3. Xác định số thuế GTGT, TNCN phải nộp đối với hộ kinh doanh .......12\n4. Doanh thu để xác định thuế thu nhập cá nhân của hộ kinh doanh\nlà gì? .......................................................................................................14"
+        ],
+        "sources": [
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-230",
+            "score": 0.03131881575727918,
+            "retrieval_method": "hybrid",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-176",
+            "score": 0.029910714285714284,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          },
+          {
+            "id": "news/article_03.md::chunk-38",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-448",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-3",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          }
+        ],
+        "latency_s": 16.445,
+        "refused": false
+      },
+      {
+        "id": "gd-15",
+        "question": "Theo Nghị định số 70/2025/NĐ-CP, hộ kinh doanh có doanh thu từ bao nhiêu trở lên phải sử dụng hóa đơn điện tử khởi tạo từ máy tính tiền?",
+        "answerable": true,
+        "answer": "Theo Nghị định số 70/2025/NĐ-CP, hộ kinh doanh có doanh thu từ **1 tỷ đồng/năm** trở lên phải sử dụng hóa đơn điện tử phát hành qua máy tính tiền kết nối cơ quan thuế [Document 1].",
+        "retrieved_contexts": [
+          "| --- | --- | --- | --- |  \n|  Nghị định số 70/2025/NĐ-CP  |  Áp dụng hóa đơn điện tử cho hộ kinh doanh có doanh thu ≥1 tỷ đồng/năm.  |  01/06/2025  |  - HKD ≥1 tỷ đồng/năm phải sử dụng hóa đơn điện tử phát hành qua máy tính tiền kết nối cơ quan thuế; - HKD đạt quy mô tối đa doanh nghiệp siêu nhỏ phải áp dụng kế toán và [**kê khai thuế**](https://einvoice.vn/tin-tuc/ke-khai-thue-gtgt).  |",
+          ". Theo cơ chế mới, hộ kinh doanh, cá nhân kinh doanh có doanh thu tính thuế giá trị gia tăng từ ngưỡng nhất định trở lên phải áp dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế; đồng thời, từ ngày 01/01/2026, các hộ kinh doanh, cá nhân kinh doanh có doanh thu trên 500 triệu đồng đã chuyển sang phương pháp kê khai nộp thuế",
+          ". Nghị định số 168/2025/NĐ-CP đã dành riêng một chương quy định về hộ kinh doanh và đăng ký hộ kinh doanh; Nghị định số 70/2025/NĐ-CP ngày 20/3/2025 sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP về hóa đơn, chứng từ cùng Thông tư số 32/2025/TT-BTC tiếp tục hoàn thiện khuôn khổ pháp lý về hóa đơn, chứng từ điện tử; Thông tư số 152/2025/TT-BTC hướng dẫn chế độ kế toán đối với hộ kinh doanh, cá nhân kinh doanh; Nghị định số 68/2026/NĐ-CP ngày 05/3/2026 về chính sách thuế và quản lý",
+          "* Từ ngày 1/7/2022 hộ kinh doanh nộp thuế theo phương pháp kê khai và những hộ kinh doanh có nhu cầu xuất hóa đơn lẻ theo từng lần phát sinh phải sử dụng hóa đơn điện tử. Trước đây hộ kinh doanh phải mua lẻ từng tờ hóa đơn của cơ quan thuế khi có nhu cầu xuất cho khách hàng.\n  * Hộ kinh doanh hoạt động trong những ngành nghề sau phải sử dụng hóa đơn điện tử: điện lực, xăng dầu, bảo hiểm, y tế, kinh doanh siêu thị, thương mại điện tử, bưu chính viễn thông…",
+          "► Thời điểm phải đăng ký sử dụng hóa đơn điện tử: Khi hộ kinh doanh\ncó doanh thu trong năm đến ngưỡng từ 1 tỷ đồng trở lên\nThời hạn phải đăng ký với cơ quan thuế: Trong vòng 30 ngày kể từ ngày\ncuối cùng của kỳ tính thuế có doanh thu tính thuế GTGT lũy kế từ 1 tỷ\nđồng trở lên. Ví dụ:\n+ Hộ kinh doanh mới thành lập từ ngày 1/1/2026, kê khai theo quý, đến\nngày 30/4/2026 có doanh thu lũy kế là 1 tỷ đồng thì đăng ký chậm nhất\nlà 30 ngày kể từ ngày 30/6/2026"
+        ],
+        "sources": [
+          {
+            "id": "news/article_05.md::chunk-17",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "article_05.md",
+            "title": "article_05"
+          },
+          {
+            "id": "news/article_04.md::chunk-49",
+            "score": 0.03225806451612903,
+            "retrieval_method": "hybrid",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "news/article_04.md::chunk-41",
+            "score": 0.031009615384615385,
+            "retrieval_method": "hybrid",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "news/article_03.md::chunk-30",
+            "score": 0.030158730158730156,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "legal/so_tay_thue.md::chunk-138",
+            "score": 0.029211087420042643,
+            "retrieval_method": "hybrid",
+            "source": "so_tay_thue.md",
+            "title": "so_tay_thue"
+          }
+        ],
+        "latency_s": 16.22,
+        "refused": false
+      },
+      {
+        "id": "gd-16",
+        "question": "Có đề xuất nào về việc nâng ngưỡng doanh thu phải xuất hóa đơn điện tử cho hộ kinh doanh không, và nâng lên mức bao nhiêu?",
+        "answerable": true,
+        "answer": "Có đề xuất về việc nâng ngưỡng doanh thu hộ kinh doanh lên mức 2–3 tỷ đồng mới phải xuất hóa đơn điện tử [Document 1, Document 5].",
+        "retrieved_contexts": [
+          "### [Đề xuất nâng ngưỡng doanh thu hộ kinh doanh lên 2–3 tỷ đồng mới phải xuất hóa đơn điện tử ](https://einvoice.vn/tin-tuc/nguong-doanh-thu-2-3-ty-dong-moi-phai-xuat-hoa-don-dien-tu) 04/08/2025-2843 lượt xem \n[![Hộ kinh doanh vi phạm hóa đơn: Có nên tạm miễn phạt 2 năm đầu?](https://einvoice.vn/FileUpload/images/News/0616f3fb-ed32-4f33-b154-4ca7dc1ab97a.png)](https://einvoice.vn/tin-tuc/ho-kinh-doanh-vi-pham-hoa-don-co-nen-tam-mien-phat-2-nam-dau)",
+          "### [Miễn thuế TNDN 2 năm cho hộ kinh doanh chuyển lên doanh nghiệp: Đề xuất mới từ Bộ Tài chính ](https://einvoice.vn/tin-tuc/mien-thue-tndn-2-nam-cho-ho-kinh-doanh-chuyen-len-doanh-nghiep) 25/07/2025-8059 lượt xem \n[![Đề xuất nâng ngưỡng doanh thu hộ kinh doanh lên 2–3 tỷ đồng mới phải xuất hóa đơn điện tử](https://einvoice.vn/FileUpload/images/News/aea2863d-f2cb-40b7-bd26-5450434c0f31.png)](https://einvoice.vn/tin-tuc/nguong-doanh-thu-2-3-ty-dong-moi-phai-xuat-hoa-don-dien-tu)",
+          ". Theo cơ chế mới, hộ kinh doanh, cá nhân kinh doanh có doanh thu tính thuế giá trị gia tăng từ ngưỡng nhất định trở lên phải áp dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế; đồng thời, từ ngày 01/01/2026, các hộ kinh doanh, cá nhân kinh doanh có doanh thu trên 500 triệu đồng đã chuyển sang phương pháp kê khai nộp thuế",
+          "* Từ ngày 1/7/2022 hộ kinh doanh nộp thuế theo phương pháp kê khai và những hộ kinh doanh có nhu cầu xuất hóa đơn lẻ theo từng lần phát sinh phải sử dụng hóa đơn điện tử. Trước đây hộ kinh doanh phải mua lẻ từng tờ hóa đơn của cơ quan thuế khi có nhu cầu xuất cho khách hàng.\n  * Hộ kinh doanh hoạt động trong những ngành nghề sau phải sử dụng hóa đơn điện tử: điện lực, xăng dầu, bảo hiểm, y tế, kinh doanh siêu thị, thương mại điện tử, bưu chính viễn thông…",
+          "thuế; cần đẩy nhanh tiến trình áp dụng khai nộp thuế điện tử cho hộ kinh doanh.\nCần ban hành riêng các quy định dành cho hộ kinh doanh về xử phạt chậm nộp\ntiền thuế theo hướng tăng tỷ lệ phạt chậm nộp thuế/ngày tối thiểu phải bằng mức\nlãi suất huy động có kỳ hạn đối với khách hàng là cá nhân.\n- Cần nghiên cứu, đề xuất tăng mức phải đóng thuế giá trị gia tăng đối với\ncác hộ, cá nhân kinh doanh. Theo đó, việc nâng ngưỡng doanh thu chịu thuế"
+        ],
+        "sources": [
+          {
+            "id": "news/article_05.md::chunk-36",
+            "score": 0.03252247488101534,
+            "retrieval_method": "hybrid",
+            "source": "article_05.md",
+            "title": "article_05"
+          },
+          {
+            "id": "news/article_05.md::chunk-35",
+            "score": 0.03252247488101534,
+            "retrieval_method": "hybrid",
+            "source": "article_05.md",
+            "title": "article_05"
+          },
+          {
+            "id": "news/article_04.md::chunk-49",
+            "score": 0.031024531024531024,
+            "retrieval_method": "hybrid",
+            "source": "article_04.md",
+            "title": "article_04"
+          },
+          {
+            "id": "news/article_03.md::chunk-30",
+            "score": 0.03055037313432836,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-816",
+            "score": 0.015873015873015872,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 15.887,
+        "refused": false
+      },
+      {
+        "id": "gd-17",
+        "question": "Theo báo cáo của Economica, khu vực hộ kinh doanh và kinh tế cá thể đóng góp khoảng bao nhiêu phần trăm GDP hằng năm, và đóng góp bao nhiêu phần trăm cho ngân sách nhà nước?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp:\n\n* Khu vực kinh tế cá thể (bao gồm hộ kinh doanh và các thực thể kinh tế cá thể khác) đóng góp khoảng **30% GDP** hằng năm [Document 1, Document 2, Document 5].\n* Khu vực này đóng góp khoảng **1,56%** cho tổng thu ngân sách nhà nước [Document 1, Document 2, Document 5].",
+        "retrieved_contexts": [
+          "thấy hộ kinh doanh phổ biến đối với người dân Việt Nam đến mức nào.\n2. Đóng góp cho GDP và tạo việc làm\nKhu vực kinh tế cá thể (bao gồm hộ kinh doanh và các thực thể kinh tế cá thể khác) hiện đáng\nđóng góp khoảng 30% GDP hằng năm. Theo số liệu của Tổng cục thuế năm 2018, có khoảng trên\n1,7 triệu hộ kinh doanh (HKD) đang thực hiện nghĩa vụ thuế và đóng góp khoảng 1,56% tổng thu\nngân sách nhà nước (Tổng cục Thuế, 2018). Bình quân mỗi HKD đóng thuế 2,7 triệu đồng/ năm.",
+          "TÓM TẮT BÁO CÁO\nKhu vực kinh tế cá thể (bao gồm hộ kinh doanh và các thực thể kinh tế cá thể khác) hiện đang\nđóng góp khoảng 30% GDP hằng năm. Cả nước hiện có khoảng 5 triệu hộ kinh doanh, trong đó\ncó khoảng 1,7 triệu hộ kinh doanh (HKD) đang thực hiện nghĩa vụ thuế và đóng góp khoảng\n1,56% tổng thu ngân sách nhà nước. Khoảng 3,3 triệu hộ còn lại không đăng ký. Số việc làm trong\nkhu vực HKD là 8,49 triệu.",
+          "tế Việt Nam. Khu vực hộ kinh doanh đóng một vai trò vô cùng quan trọng trong việc đảm bảo khả\nnăng chống chịu của nền kinh tế, đặc biệt là vào thời điểm có các các cú sốc từ bên ngoài. Hiện\ncó khoảng 8,49 triệu lao động đang làm việc trong khu vực hộ kinh doanh. Khu vực hộ kinh doanh\nvà kinh tế cá thể đóng góp 30% cho GDP song chỉ đóng góp 1,56% cho Ngân sách Nhà nước hàng\nnăm (Tổng cục Thuế, 2018).\nMặc dù vậy, khu vực hộ kinh doanh cá thể vẫn được coi là khu vực phi chính thức. Hộ kinh doanh",
+          "Trong khi đó, mức đóng góp bình quân cho NSNN của mỗi DN là 1,7 tỷ đồng/ năm.\nHình 1. Đóng góp GDP từ các thành phần kinh tế\nNguồn: Niên Giám Thống Kê, Tổng điều tra kinh tế, Tổng cục Thống Kê (2021 và các năm).\nCác HKD đã thu hút và tạo việc làm cho khoảng 8,49 triệu lao động năm 2021. Lao động làm việc\ntại các hộ kinh doanh năm 2020 chiếm 37% tổng lao động của khu vực doanh nghiệp, cao hơn so\n4 Con số này cao hơn so với tỷ lệ khoảng cứ 111 người dân thì có 1 doanh nghiệp vào năm 2021.\n12",
+          "đóng góp cho tăng trưởng. Với đặc điểm chung là quy mô kinh doanh nhỏ, lẻ,\nmang tính tự phát nên việc đóng góp vào ngân sách nhà nước của hộ kinh doanh\nlà không cao. Tuy nhiên, hộ kinh doanh vẫn là một chủ thể kinh doanh chiếm số\nlượng lớn trong bộ phận kinh tế ngoài quốc doanh, do đó nguồn thu thuế từ hộ\nkinh doanh vẫn là nguồn thu quan trọng của địa phương. Như vậy, để đảm bảo\nnguồn thu ổn định, ngày càng tăng cho ngân sách nhà nước thì việc quản lý thuế"
+        ],
+        "sources": [
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-57",
+            "score": 0.03252247488101534,
+            "retrieval_method": "hybrid",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-20",
+            "score": 0.03252247488101534,
+            "retrieval_method": "hybrid",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-3",
+            "score": 0.031746031746031744,
+            "retrieval_method": "hybrid",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-58",
+            "score": 0.031009615384615385,
+            "retrieval_method": "hybrid",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-281",
+            "score": 0.03055037313432836,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          }
+        ],
+        "latency_s": 17.258,
+        "refused": false
+      },
+      {
+        "id": "gd-18",
+        "question": "Cả nước hiện có khoảng bao nhiêu hộ kinh doanh, và trong đó có khoảng bao nhiêu hộ đang thực hiện nghĩa vụ thuế?",
+        "answerable": true,
+        "answer": "Dựa trên các tài liệu được cung cấp:\n\n* Cả nước hiện có khoảng 5 triệu hộ kinh doanh [Document 1, Document 3, Document 5].\n* Trong đó, có khoảng 1,7 triệu hộ kinh doanh đang thực hiện nghĩa vụ thuế [Document 1, Document 2].",
+        "retrieved_contexts": [
+          "TÓM TẮT BÁO CÁO\nKhu vực kinh tế cá thể (bao gồm hộ kinh doanh và các thực thể kinh tế cá thể khác) hiện đang\nđóng góp khoảng 30% GDP hằng năm. Cả nước hiện có khoảng 5 triệu hộ kinh doanh, trong đó\ncó khoảng 1,7 triệu hộ kinh doanh (HKD) đang thực hiện nghĩa vụ thuế và đóng góp khoảng\n1,56% tổng thu ngân sách nhà nước. Khoảng 3,3 triệu hộ còn lại không đăng ký. Số việc làm trong\nkhu vực HKD là 8,49 triệu.",
+          "Theo Tổng cục Thống kê, hiện nay trên toàn quốc có khoảng 5 triệu hộ kinh doanh, trong đó có\nkhoảng 1,7 triệu hộ kinh doanh đã đăng ký. Trong giai đoạn 2011-2021, đã có khoảng 1 triệu hộ\nkinh doanh đi vào hoạt động và vẫn đang duy trì hoạt động cho tới nay. Giả định rằng chỉ cần\n50% số các hộ kinh doanh này đã đăng ký theo hình thức cá nhân kinh doanh, doanh nghiệp cá\nthể (sole proprietorship) thay vì đăng ký theo hình thức hộ kinh doanh và với tỷ lệ doanh nghiệp",
+          "thấy hộ kinh doanh phổ biến đối với người dân Việt Nam đến mức nào.\n2. Đóng góp cho GDP và tạo việc làm\nKhu vực kinh tế cá thể (bao gồm hộ kinh doanh và các thực thể kinh tế cá thể khác) hiện đáng\nđóng góp khoảng 30% GDP hằng năm. Theo số liệu của Tổng cục thuế năm 2018, có khoảng trên\n1,7 triệu hộ kinh doanh (HKD) đang thực hiện nghĩa vụ thuế và đóng góp khoảng 1,56% tổng thu\nngân sách nhà nước (Tổng cục Thuế, 2018). Bình quân mỗi HKD đóng thuế 2,7 triệu đồng/ năm.",
+          "hợp với thực tế kinh doanh, nhất là các hộ hoạt động kinh doanh trong các ngành\nnghề đặc thù như dịch vụ ăn uống, nhà nghỉ…\nVề chế độ thuế đối với hộ kinh doanh, hiện nay, cả nước có khoảng gần 6\n73 Xem thêm: Nguyễn Lương (2019), Bất cập trong thu thuế đối với hộ kinh doanh, Báo Đăk Nông ngày\n29/8/2019, link: https://baodaknong.vn/bat-cap-trong-quan-ly-thue-doi-voi-ho-kinh-doanh-82307.html\n127",
+          "Hộ kinh doanh hiện là một bộ phận chủ thể kinh doanh có vị trí quan trọng trong khu vực kinh tế tư nhân ở Việt Nam, với số lượng lớn, phạm vi hoạt động rộng và mức độ hiện diện ngày càng rõ trong môi trường kinh doanh số. Theo số liệu công bố đầu năm 2025, cả nước có trên 5 triệu hộ kinh doanh[1](/#_ftn1); riêng Hà Nội đến cuối năm 2025 có 356.737 hộ và cá nhân kinh doanh đang hoạt động[2](/#_ftn2)"
+        ],
+        "sources": [
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-20",
+            "score": 0.032266458495966696,
+            "retrieval_method": "hybrid",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-112",
+            "score": 0.031009615384615385,
+            "retrieval_method": "hybrid",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-57",
+            "score": 0.0304147465437788,
+            "retrieval_method": "hybrid",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-647",
+            "score": 0.030309988518943745,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "news/article_04.md::chunk-12",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "article_04.md",
+            "title": "article_04"
+          }
+        ],
+        "latency_s": 20.327,
+        "refused": false
+      },
+      {
+        "id": "gd-19",
+        "question": "Lãi suất vay ngân hàng ưu đãi hiện nay cho hộ kinh doanh vay vốn là bao nhiêu phần trăm mỗi năm?",
+        "answerable": false,
+        "answer": "Dựa trên các tài liệu được cung cấp, không có thông tin cụ thể về mức lãi suất vay ngân hàng ưu đãi hiện nay (tính theo phần trăm mỗi năm) dành cho hộ kinh doanh [Document 1, Document 2, Document 3, Document 4, Document 5]. Do đó, tôi từ chối xác minh khẳng định này do thiếu evidence.",
+        "retrieved_contexts": [
+          "đứng tên để vay vốn ngân hàng. Giá trị khoản cho vay hộ gia đình thường không\nlớn, nhưng số lượng khoản vay cho nhóm khách hàng này rất nhiều. Các ngân\nhàng thiết kế sản phẩm tín dụng cho hộ kinh doanh trên các ứng dụng công nghệ\nngân hàng số để tiện theo dõi và quản lý với chi phí thấp.\nNgân hàng Bản Việt (BVBank) đang có gói tín dụng cho hộ kinh doanh\nđô thị hỗ trợ khách hàng tiếp cận nguồn vốn vay với lãi suất ưu đãi, thủ tục linh",
+          "Ở góc độ ngược lại, thực tế hoạt động và quản trị hộ kinh doanh cho thấy\nđang “tràn lan hộ kinh doanh ảo” bởi thông qua hộ kinh doanh, cá nhân chủ hộ\nkinh doanh có thể vẽ ra được lý do vay vốn dễ dàng hơn và nhận nhiều ưu đãi\nhơn. Do đó, nhiều hộ kinh doanh được thành lập lên rồi vẽ ra phương án kinh\ndoanh “rởm” chỉ để vay được vốn còn thực chất không hoạt động.\nDo hộ kinh doanh không phải pháp nhân, nên các cá nhân chủ hộ thường",
+          "chủ hộ kinh doanh nhỏ lẻ. Bên cạnh sự lo lắng về nguồn vốn thì câu hỏi “Hộ\nkinh doanh có được vay vốn ngân hàng hay không?” là nỗi băn khoăn của rất\nnhiều thương nhân. Tuy nhiên, quy định tại Thông tư 39/2016/TT-NHNN và\nThông tư 43/2016/TT-NHNN của Ngân hàng Nhà nước (NHNN) đã nêu rõ, các\nđối tượng không phải là pháp nhân (hộ kinh doanh, hộ gia đình, tổ hợp tác, tổ\nchức khác không có tư cách pháp nhân) không đủ tư cách chủ thể vay vốn.",
+          "hoạt, thời gian giải ngân nhanh chóng. Hộ kinh doanh hoặc tiểu thương vay sản\nxuất kinh doanh, gia công, chế biến, kinh doanh thương mại có thể thế chấp tài\nsản đảm bảo là bất động sản, thời gian vay tối đa 60 tháng, số tiền vay lên đến 2\ntỷ đồng.\nÔng Ngô Minh Sang, Giám đốc Khối khách hàng cá nhân của BVBank\ncho biết, hoạt động cho vay đối với hộ kinh doanh, bên cạnh việc áp dụng mức\nlãi suất ưu đãi thì việc duyệt hồ sơ, thời gian giải ngân, phương thức cho vay...",
+          "1,4%/năm, thấp hơn so với mức 3%/năm giai đoạn 2011-2016. Nguyên nhân chủ yếu của mức\ntăng bình quân thấp và có xu hướng giảm nhẹ trong 2 năm gần đây là do đại dịch Covid -19 đã có\nảnh hưởng tiêu cực tới tốc độ tăng trưởng số lượng hộ kinh doanh.\nBảng 1. Phân bố hộ kinh doanh theo ngành nghề, lĩnh vực hoạt động\nNăm 2011 2015 2019 2020 2021\nTổng số (1.000 hộ) 4.236,3 4.754,8 5.377,7 5.200,4 5.067,4\nCơ cấu (%) 100,0% 100,0% 100,0% 100,0% 100,0%"
+        ],
+        "sources": [
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-660",
+            "score": 0.03278688524590164,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-659",
+            "score": 0.031754032258064516,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-515",
+            "score": 0.029631255487269532,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-661",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/dia_vi_phap_ly.md::chunk-53",
+            "score": 0.015873015873015872,
+            "retrieval_method": "hybrid",
+            "source": "dia_vi_phap_ly.md",
+            "title": "dia_vi_phap_ly"
+          }
+        ],
+        "latency_s": 15.028,
+        "refused": false
+      },
+      {
+        "id": "gd-20",
+        "question": "Thủ tục và chi phí thành lập công ty cổ phần tại Singapore cho nhà đầu tư nước ngoài như thế nào?",
+        "answerable": false,
+        "answer": "Dựa trên các tài liệu được cung cấp, không có thông tin chi tiết về thủ tục và chi phí thành lập công ty cổ phần tại Singapore cho nhà đầu tư nước ngoài. \n\nTài liệu chỉ đề cập rằng để bắt đầu đăng ký kinh doanh tại Singapore, người đăng ký cần đăng ký với cơ quan đăng ký kinh doanh (ACRA) thông qua hệ thống BizFile hoặc dịch vụ đăng ký doanh nghiệp qua mạng điện tử Ezbiz8, và thời gian đăng ký doanh nghiệp cá thể được thực hiện trong vòng 30 ngày kể từ ngày bắt đầu kinh doanh [Document 2]. Tuy nhiên, tài liệu không cung cấp thông tin về công ty cổ phần hay chi phí cụ thể tại Singapore. Do đó, tôi từ chối xác minh phần còn lại của câu hỏi do thiếu evidence.",
+        "retrieved_contexts": [
+          "[ ![](https://luattinminh.vn/uploads/images/dich-vu/40/dich-vu-thanh-lap-cong-ty-co-phan.jpg) ](https://luattinminh.vn/dich-vu-thanh-lap-cong-ty-co-phan)\n##### [Dịch vụ làm thủ tục thành lập công ty cổ phần, từ 1.200.000đ](https://luattinminh.vn/dich-vu-thanh-lap-cong-ty-co-phan)\n![](https://luattinminh.vn/images/icons/icon-thanh-cong.png)\nGửi thông tin thành công\nLuật Tín Minh cảm ơn bạn đã đánh giá và viết nhận xét cho chúng tôi!\n##### Hãy nhập thêm thông tin sau:\nHoàn thành",
+          "nghiệp không có quy định giới hạn loại hình doanh nghiệp đối với nhà đầu tư\nnước ngoài. Do đó, nhà đầu tư có thể lựa chọn: Công trách nhiệm hữu hạn một\nthành viên; Công ty trách nhiệm hữu hạn hai thành viên trở lên; Công ty cổ\nphần; Công ty hợp danh.\nTại Khoản 1 Điều 7 Luật Doanh nghiệp 2020, doanh nghiệp được tự do\nkinh doanh ngành, nghề mà luật không cấm. Như vậy, người nước ngoài được\nthành lập doanh nghiệp tại Việt Nam với tư cách là nhà đầu tư nước ngoài khi",
+          "phòng của CCM hoặc thông qua dịch vụ đăng ký doanh nghiệp qua mạng điện\ntử Ezbiz8. Thời gian đăng ký doanh nghiệp cá thể được thực hiện trong vòng 30\nngày kể từ ngày bắt đầu kinh doanh. Để bắt đầu đăng ký kinh doanh tại\nSingapore, người đăng ký cần đăng ký với cơ quan đăng ký kinh doanh (ACRA)\ncủa Singapore. Để đăng ký doanh nghiệp cá thể, người đăng ký cần điền vào\nđơn đăng ký điện tử thông qua BizFile- Hệ thống truy xuất thông tin của ACRA",
+          "doanh có nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài tham\ngia góp vốn, mua cổ phần, mua phần vốn góp thuộc trường hợp phải thực hiện\nthủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của\nLuật Đầu tư thì hồ sơ phải có văn bản của Cơ quan đăng ký đầu tư chấp thuận về\n111",
+          "##### [Dịch vụ làm thủ tục thành lập công ty trọn gói - từ 1.200.000đ](https://luattinminh.vn/dich-vu-thanh-lap-cong-ty-tron-goi)\n[ ![](https://luattinminh.vn/uploads/images/dich-vu/39/dich-vu-thanh-lap-cong-ty-tnhh.jpg) ](https://luattinminh.vn/dich-vu-thanh-lap-cong-ty-tnhh)\n##### [Dịch vụ làm thủ tục thành lập công ty TNHH – Từ 1.200.000đ](https://luattinminh.vn/dich-vu-thanh-lap-cong-ty-tnhh)"
+        ],
+        "sources": [
+          {
+            "id": "news/article_03.md::chunk-44",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-409",
+            "score": 0.01639344262295082,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-74",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "legal/phap_luat_ve_ho_kinh_doanh_vn.md::chunk-572",
+            "score": 0.016129032258064516,
+            "retrieval_method": "hybrid",
+            "source": "phap_luat_ve_ho_kinh_doanh_vn.md",
+            "title": "phap_luat_ve_ho_kinh_doanh_vn"
+          },
+          {
+            "id": "news/article_03.md::chunk-43",
+            "score": 0.015873015873015872,
+            "retrieval_method": "hybrid",
+            "source": "article_03.md",
+            "title": "article_03"
+          }
+        ],
+        "latency_s": 17.217,
+        "refused": false
+      }
+    ],
+    "per_case_scores": {
+      "gd-01": {
+        "faithfulness": 1.0,
+        "answer_relevancy": NaN,
+        "context_recall": 0.5,
+        "context_precision": NaN
+      },
+      "gd-02": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9963744483322661,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-03": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9660814685401584,
+        "context_recall": 1.0,
+        "context_precision": 0.6791666666496875
+      },
+      "gd-04": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.8485953077168991,
+        "context_recall": 0.0,
+        "context_precision": NaN
+      },
+      "gd-05": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 1.0,
+        "context_recall": 0.5,
+        "context_precision": NaN
+      },
+      "gd-06": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9331809620104491,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-07": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.8332940040884466,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-08": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9984867197311771,
+        "context_recall": NaN,
+        "context_precision": 0.999999999975
+      },
+      "gd-09": {
+        "faithfulness": 0.8333333333333334,
+        "answer_relevancy": 0.8736401339182698,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-10": {
+        "faithfulness": NaN,
+        "answer_relevancy": NaN,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-11": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.7941204274519497,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-12": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9931605200337265,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-13": {
+        "faithfulness": 0.6,
+        "answer_relevancy": NaN,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-14": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9999999999999999,
+        "context_recall": 0.0,
+        "context_precision": NaN
+      },
+      "gd-15": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9450686720674824,
+        "context_recall": 1.0,
+        "context_precision": NaN
+      },
+      "gd-16": {
+        "faithfulness": 1.0,
+        "answer_relevancy": NaN,
+        "context_recall": 0.5,
+        "context_precision": NaN
+      },
+      "gd-17": {
+        "faithfulness": NaN,
+        "answer_relevancy": 0.847997602157877,
+        "context_recall": NaN,
+        "context_precision": NaN
+      },
+      "gd-18": {
+        "faithfulness": 1.0,
+        "answer_relevancy": NaN,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999995
+      }
+    },
+    "aggregate": {
+      "faithfulness": 0.9645833333333333,
+      "answer_relevancy": 0.9253846358499,
+      "context_recall": 0.78125,
+      "context_precision": 0.8930555555248958
+    }
+  }
+}
